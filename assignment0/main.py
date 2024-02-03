@@ -1,5 +1,6 @@
 import argparse
-import assignment
+from assignment0 import assignment
+
 
 def main(url):
     db_name = "norman_pd.db"
