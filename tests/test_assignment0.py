@@ -1,6 +1,6 @@
 import os
 import pytest
-import assignment0
+from assignment0 import assignment
 from tests import result_page_0, result_random_page, result_last_page
 
 
@@ -73,7 +73,7 @@ def sample_page_text():
 
 @pytest.fixture
 def mock_sqlite(mocker):
-    return mocker.patch('assignment0.sqlite3.connect')
+    return mocker.patch('assignment.sqlite3.connect')
 
 
 @pytest.fixture
@@ -112,7 +112,7 @@ def test_delete_existing_db_file_exists(mocker, mock_cwd):
 
     # Execute
     db_name = "test.db"
-    assignment0.delete_existing_db(db_name)
+    assignment.delete_existing_db(db_name)
 
     # Asserts
     mock_cwd.assert_called_once()
@@ -128,7 +128,7 @@ def test_delete_existing_db_file_does_not_exist(mocker, mock_cwd):
 
     # Execute
     db_name = "test.db"
-    assignment0.delete_existing_db(db_name)
+    assignment.delete_existing_db(db_name)
 
     # Asserts
     mock_cwd.assert_called_once()
@@ -144,7 +144,7 @@ def test_delete_existing_db_failure(mocker, mock_cwd):
 
     # Execute
     db_name = "test.db"
-    assignment0.delete_existing_db(db_name)
+    assignment.delete_existing_db(db_name)
 
     # Asserts
     mock_cwd.assert_called_once()
@@ -161,7 +161,7 @@ def test_fetch_incidents_success(mocker, sample_url):
     )
 
     # Execute
-    data = assignment0.fetch_incidents(sample_url)
+    data = assignment.fetch_incidents(sample_url)
 
     # Asserts
     request.assert_called_once()
@@ -176,7 +176,7 @@ def test_fetch_incidents_failure(mocker, sample_url):
     )
 
     # Execute
-    data = assignment0.fetch_incidents(sample_url)
+    data = assignment.fetch_incidents(sample_url)
 
     # Asserts
     request.assert_called_once()
@@ -189,12 +189,12 @@ def test_extract_incidents(mocker, mock_object, sample_page_text, expected_incid
     reader = mock_object
     reader.pages = [mock_object]
     sample_incident_data = mock_object
-    mocker.patch("assignment0.io.BytesIO", return_vale=mock_object)
-    mocker.patch("assignment0.PdfReader", return_value=reader)
-    mocker.patch("assignment0.extract_page_text", return_value=sample_page_text)
+    mocker.patch("assignment.io.BytesIO", return_vale=mock_object)
+    mocker.patch("assignment.PdfReader", return_value=reader)
+    mocker.patch("assignment.extract_page_text", return_value=sample_page_text)
 
     # Execute
-    incidents = assignment0.extract_incidents(sample_incident_data)
+    incidents = assignment.extract_incidents(sample_incident_data)
 
     # Asserts
     assert incidents[0] == expected_incidents[0]
@@ -209,7 +209,7 @@ def test_extract_page_text_page0(mock_object, sample_page0):
     mock_page.extract_text.return_value = sample_page0
 
     # Execute
-    page_text = assignment0.extract_page_text(mock_page, 0, 5)
+    page_text = assignment.extract_page_text(mock_page, 0, 5)
 
     # Asserts
     assert page_text[0] == result_page_0[0]
@@ -224,7 +224,7 @@ def test_extract_page_text_random_page(mock_object, sample_random_page):
     mock_page.extract_text.return_value = sample_random_page
 
     # Execute
-    page_text = assignment0.extract_page_text(mock_page, 2, 5)
+    page_text = assignment.extract_page_text(mock_page, 2, 5)
 
     # Asserts
     assert page_text[0] == result_random_page[0]
@@ -239,7 +239,7 @@ def test_extract_page_text_last_page(mock_object, sample_last_page):
     mock_page.extract_text.return_value = sample_last_page
 
     # Execute
-    page_text = assignment0.extract_page_text(mock_page, 4, 5)
+    page_text = assignment.extract_page_text(mock_page, 4, 5)
 
     # Asserts
     assert page_text[0] == result_last_page[0]
@@ -249,7 +249,7 @@ def test_extract_page_text_last_page(mock_object, sample_last_page):
 
 def test_split_all_incidents(sample_random_page):
     # Execute
-    extracted_incidents = assignment0.split_all_incidents(sample_random_page)
+    extracted_incidents = assignment.split_all_incidents(sample_random_page)
 
     # Asserts
     assert extracted_incidents[0] == result_random_page[0]
@@ -259,7 +259,7 @@ def test_split_all_incidents(sample_random_page):
 
 def test_split_all_incidents_last_page(sample_last_page):
     # Execute
-    extracted_incidents = assignment0.split_all_incidents(sample_last_page, 'last')
+    extracted_incidents = assignment.split_all_incidents(sample_last_page, 'last')
 
     # Asserts
     assert extracted_incidents[0] == result_last_page[0]
@@ -270,7 +270,7 @@ def test_split_all_incidents_last_page(sample_last_page):
 def test_refactor_page_data(sample_page_text, expected_incidents):
     """Test refactoring of page content to get required fields"""
     # Execute
-    page_incidents = assignment0.refactor_page_data(sample_page_text)
+    page_incidents = assignment.refactor_page_data(sample_page_text)
 
     # Asserts
     assert len(page_incidents) == 3
@@ -292,7 +292,7 @@ def test_extract_location_and_nature_case1():
     record = ["226", "CINDY", "AVE", "Chest", "Pain"]
 
     # Execute
-    location, nature = assignment0.extract_location_and_nature(record)
+    location, nature = assignment.extract_location_and_nature(record)
 
     # Asserts
     assert location == "226 CINDY AVE"
@@ -305,7 +305,7 @@ def test_extract_location_and_nature_case2():
     record = ["2900", "CHAUTAUQUA", "AVE", "911", "Call", "Nature", "Unknown"]
 
     # Execute
-    location, nature = assignment0.extract_location_and_nature(record)
+    location, nature = assignment.extract_location_and_nature(record)
 
     # Asserts
     assert location == "2900 CHAUTAUQUA AVE"
@@ -328,7 +328,7 @@ def test_create_db_success(mock_object, mock_sqlite):
     )
 
     # Execute
-    conn = assignment0.create_db(db_name)
+    conn = assignment.create_db(db_name)
 
     # Asserts
     mock_sqlite.assert_called_once_with(f'resources/{db_name}')
@@ -345,7 +345,7 @@ def test_create_db_failure(mock_object, mock_sqlite):
 
     # Execute
     db_name = "test.db"
-    result = assignment0.create_db(db_name)
+    result = assignment.create_db(db_name)
 
     #  Asserts
     mock_sqlite.assert_called_once_with(f'resources/{db_name}')
@@ -369,7 +369,7 @@ def test_populate_db_success(mock_object):
     ]
 
     # Execute
-    assignment0.populate_db(mock_db, sample_incidents)
+    assignment.populate_db(mock_db, sample_incidents)
 
     # Asserts
     mock_db.execute.assert_called_once_with(
@@ -404,7 +404,7 @@ def test_populate_db_failure(mock_object):
     ]
 
     # Execute
-    assignment0.populate_db(mock_db, sample_incidents)
+    assignment.populate_db(mock_db, sample_incidents)
 
     # Asserts
     mock_db.execute.assert_called_once_with(
@@ -439,7 +439,7 @@ def test_status_success(mock_object):
         """
 
     # Execute
-    assignment0.status(mock_connection)
+    assignment.status(mock_connection)
 
     # Asserts
     mock_connection.cursor.assert_called_once()
@@ -465,7 +465,7 @@ def test_status_failure(mock_object):
         """
 
     # Execute
-    assignment0.status(mock_connection)
+    assignment.status(mock_connection)
 
     # Asserts
     mock_connection.cursor.assert_called_once()

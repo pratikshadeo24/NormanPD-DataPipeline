@@ -188,7 +188,7 @@ def extract_location_and_nature(record):
 
 
 def create_json(incidents):
-    with open("incidents.json", "w") as f:
+    with open("../incidents.json", "w") as f:
         json.dump(incidents, f, indent=4)
 
 
