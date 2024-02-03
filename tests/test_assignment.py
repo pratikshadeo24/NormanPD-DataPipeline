@@ -73,7 +73,7 @@ def sample_page_text():
 
 @pytest.fixture
 def mock_sqlite(mocker):
-    return mocker.patch('assignment.sqlite3.connect')
+    return mocker.patch('assignment0.assignment.sqlite3.connect')
 
 
 @pytest.fixture
@@ -189,9 +189,9 @@ def test_extract_incidents(mocker, mock_object, sample_page_text, expected_incid
     reader = mock_object
     reader.pages = [mock_object]
     sample_incident_data = mock_object
-    mocker.patch("assignment.io.BytesIO", return_vale=mock_object)
-    mocker.patch("assignment.PdfReader", return_value=reader)
-    mocker.patch("assignment.extract_page_text", return_value=sample_page_text)
+    mocker.patch("assignment0.assignment.io.BytesIO", return_vale=mock_object)
+    mocker.patch("assignment0.assignment.PdfReader", return_value=reader)
+    mocker.patch("assignment0.assignment.extract_page_text", return_value=sample_page_text)
 
     # Execute
     incidents = assignment.extract_incidents(sample_incident_data)

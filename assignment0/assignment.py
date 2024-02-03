@@ -203,7 +203,7 @@ def create_db(db_name):
         Exception while establishing connection / creating cursor / executing query
     """
     try:
-        db_file_loc = f'../cis6930sp24-assignment0/resources/{db_name}'
+        db_file_loc = f'resources/{db_name}'
         conn = sqlite3.connect(db_file_loc)
         cur = conn.cursor()
         cur.execute(
