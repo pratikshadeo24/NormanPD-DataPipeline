@@ -9,21 +9,29 @@ printed.
 
 ## How to install
 ### Download pyenv, install python 3.11 and set it globally
-curl https://pyenv.run | bash
-pyenv install 3.11
-pyenv global 3.11
+- curl https://pyenv.run | bash
+- pyenv install 3.11
+- pyenv global 3.11
 
 ### install required libraries
-pipenv install pypdf 
-pipenv install pytest
-pipenv install pytest-mock
+- pipenv install pypdf 
+- pip install sqlite3
+- pipenv install pytest
+- pipenv install pytest-mock
 
 ## How to run
 pipenv run python assignment0/main.py --incidents <url>
+
 ![video](video)
 
 
 ## Functions
+
+### main
+This function serves as the central entry point for the script designed to fetch, process, and store incident data from a provided URL into a SQLite database.
+The function does not return a value. Its primary role is to execute a series of operations as well as potentially display summaries of the stored data.
+It uses argparse to parse command-line arguments, requiring a URL to the incident summary as an input (--incidents), which it then passed to the main function.
+
 ### delete_existing_db
 This function deletes the database if it exists so that user need not require to manually delete the database every time
 the code is run. 
@@ -65,3 +73,7 @@ the database which has the following columns - Incident Time, Incident Number, L
 Incidents are collected and then populated into the database in one go. 
 
 ## Bugs and Assumptions
+- There will be only 5 columns in the pdf and order of columns will be preserved. After splitting list, index 1 will give time, index 2 will give incident number, last index will give incident ori, rest index will be used to extract location and nature
+- Page 0 of pdf will have a header and last page will have a footer which needs to be removed
+- Location includes - decimal, uppercase and special characters( "/", ";"). "MVA", "COP", "EMS", "911" are exceptions to this logic hence they will be part of nature
+- Anything not included in location will be included in nature. Once we start writing into nature, nothing will be appended to location as location preceds nature column
