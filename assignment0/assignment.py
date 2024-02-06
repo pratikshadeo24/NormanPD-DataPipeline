@@ -284,7 +284,8 @@ def status(conn):
         rows = cur.fetchall()
 
         for row in rows:
-            print(f"{row[0]}|{row[1]}")
+            if row[0] is not None:
+                print(f"{row[0]}|{row[1]}")
     except Exception as ex:
         print("ERROR in fetching Status: ", ex)
     finally:
