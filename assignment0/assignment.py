@@ -21,7 +21,7 @@ def delete_existing_db(db_name):
         # get current working directory path
         base_path = os.getcwd()
         # build DB file path
-        file_path = f"{base_path}/../resources/{db_name}"
+        file_path = f"{base_path}/resources/{db_name}"
         # delete DB file if exists
         if os.path.exists(file_path):
             os.remove(file_path)
@@ -235,7 +235,7 @@ def create_db(db_name):
     """
     try:
         # define db path
-        db_file_loc = f'../resources/{db_name}'
+        db_file_loc = f'resources/{db_name}'
         # establish db connection
         conn = sqlite3.connect(db_file_loc)
         # generate cursor object
