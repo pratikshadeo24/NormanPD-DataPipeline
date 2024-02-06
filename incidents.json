@@ -1,2298 +1,2823 @@
 [
     {
+        "incident_time": "0:00",
+        "incident_number": "2024-00005499",
+        "incident_location": "1446 TELLURIDE LN",
+        "incident_nature": "Check Area",
+        "incident_ori": "OK0140200"
+    },
+    {
         "incident_time": "0:01",
-        "incident_number": "2024-00000001",
-        "incident_location": "3603 N FLOOD AVE",
+        "incident_number": "2024-00005500",
+        "incident_location": "2338 W LINDSEY ST",
         "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "0:03",
-        "incident_number": "2024-00000001",
-        "incident_location": "226 CINDY AVE",
-        "incident_nature": "Chest Pain",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "0:03",
-        "incident_number": "2024-00000001",
-        "incident_location": "226 CINDY AVE",
-        "incident_nature": "Sick Person",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "0:04",
-        "incident_number": "2024-00000002",
-        "incident_location": "E MAIN ST / N JONES AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "0:06",
-        "incident_number": "2024-00000003",
-        "incident_location": "W ROCK CREEK RD / N FLOOD AVE",
-        "incident_nature": "Motorist Assist",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "0:07",
-        "incident_number": "2024-00000005",
-        "incident_location": "2001 VANESSA DR",
-        "incident_nature": "Burglary",
         "incident_ori": "OK0140200"
     },
     {
         "incident_time": "0:11",
-        "incident_number": "2024-00000017",
-        "incident_location": "2817 DEVONSHIRE DR",
-        "incident_nature": "Shots Heard",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "0:12",
-        "incident_number": "2024-00000008",
-        "incident_location": "2118 W LINDSEY ST",
+        "incident_number": "2024-00005501",
+        "incident_location": "3450 CHAUTAUQUA AVE",
         "incident_nature": "Alarm",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "0:14",
-        "incident_number": "2024-00000006",
-        "incident_location": "2501 CONFERENCE DR",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "0:16",
-        "incident_number": "2024-00000002",
-        "incident_location": "1201 E LINDSEY ST",
-        "incident_nature": "Fire Dumpster",
+        "incident_time": "0:18",
+        "incident_number": "2024-00001408",
+        "incident_location": "1916 DELANCEY DR",
+        "incident_nature": "Abdominal Pains/Problems",
         "incident_ori": "14005"
     },
     {
-        "incident_time": "0:16",
-        "incident_number": "2024-00000007",
-        "incident_location": "W ROBINSON ST / STUBBEMAN AVE",
+        "incident_time": "0:18",
+        "incident_number": "2024-00001749",
+        "incident_location": "1916 DELANCEY DR",
+        "incident_nature": "Abdominal Pains/Problems",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "0:20",
+        "incident_number": "2024-00005502",
+        "incident_location": "2550 MOUNT WILLIAMS DR",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "0:28",
+        "incident_number": "2024-00005503",
+        "incident_location": "1325 W LINDSEY ST",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "0:33",
+        "incident_number": "2024-00005504",
+        "incident_location": "1197 12TH AVE SE",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "0:21",
-        "incident_number": "2024-00000009",
-        "incident_location": "CHILLMARK DR / MONTILLA CT",
+        "incident_time": "0:38",
+        "incident_number": "2024-00001409",
+        "incident_location": "103 W TIMBERDELL RD",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "0:46",
+        "incident_number": "2024-00005505",
+        "incident_location": "GEORGE AVE / E LINDSEY ST",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "0:25",
-        "incident_number": "2024-00000022",
-        "incident_location": "156TH AVE NE / E INDIAN HILLS RD",
+        "incident_time": "0:47",
+        "incident_number": "2024-00001410",
+        "incident_location": "1241 OAKHURST AVE",
+        "incident_nature": "Preg/Child Birth/Miscarriage",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "0:47",
+        "incident_number": "2024-00001750",
+        "incident_location": "1241 OAKHURST AVE",
+        "incident_nature": "Preg/Child Birth/Miscarriage",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "0:53",
+        "incident_number": "2024-00005506",
+        "incident_location": "W LINDSEY ST / ED NOBLE PKWY",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "0:53",
+        "incident_number": "2024-00005509",
+        "incident_location": "W LINDSEY ST / ED NOBLE PKWY",
+        "incident_nature": "Warrant Service",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "0:53",
+        "incident_number": "2024-00005507",
+        "incident_location": "DONNA DR / LOIS ST",
+        "incident_nature": "Noise Complaint",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "1:05",
+        "incident_number": "2024-00005508",
+        "incident_location": "1006 N PORTER AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200N"
+    },
+    {
+        "incident_time": "1:14",
+        "incident_number": "2024-00001411",
+        "incident_location": "1132 CADDELL LN",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "1:14",
+        "incident_number": "2024-00001751",
+        "incident_location": "1132 CADDELL LN",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "1:38",
+        "incident_number": "2024-00001412",
+        "incident_location": "800 CANADIAN TRAILS DR",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "1:50",
+        "incident_number": "2024-00005510",
+        "incident_location": "3450 CHAUTAUQUA AVE",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:04",
+        "incident_number": "2024-00001413",
+        "incident_location": "518 S FLOOD AVE",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "2:04",
+        "incident_number": "2024-00001752",
+        "incident_location": "518 S FLOOD AVE",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "2:08",
+        "incident_number": "2024-00001414",
+        "incident_location": "319 WOODCREST DR",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "2:12",
+        "incident_number": "2024-00005511",
+        "incident_location": "1186 E LINDSEY ST",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:21",
+        "incident_number": "2024-00005512",
+        "incident_location": "301 CHALMETTE DR",
         "incident_nature": "Shots Heard",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "0:25",
-        "incident_number": "2024-00000010",
-        "incident_location": "2300 MERIDIAN DR",
+        "incident_time": "2:27",
+        "incident_number": "2024-00005513",
+        "incident_location": "2052 E LINDSEY ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:38",
+        "incident_number": "2024-00005514",
+        "incident_location": "3301 W MAIN ST",
+        "incident_nature": "Open Door/Premises Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:41",
+        "incident_number": "2024-00005515",
+        "incident_location": "BILOXI DR / E LINDSEY ST",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:43",
+        "incident_number": "2024-00005518",
+        "incident_location": "1320 E LINDSEY ST",
+        "incident_nature": "Check Area",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:44",
+        "incident_number": "2024-00005516",
+        "incident_location": "1800 BEAUMONT DR",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:46",
+        "incident_number": "2024-00005517",
+        "incident_location": "1398 N JONES AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:48",
+        "incident_number": "2024-00005519",
+        "incident_location": "119 BEAL ST",
+        "incident_nature": "Prowler",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "2:49",
+        "incident_number": "2024-00005520",
+        "incident_location": "2543 W MAIN ST",
         "incident_nature": "Disturbance/Domestic",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "0:29",
-        "incident_number": "2024-00000002",
-        "incident_location": "222 BULL RUN ST",
-        "incident_nature": "Shooting Stabbing Penetrating",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "0:29",
-        "incident_number": "2024-00000003",
-        "incident_location": "222 BULL RUN ST",
-        "incident_nature": "Shooting Stabbing Penetrating",
-        "incident_ori": "14005N"
-    },
-    {
-        "incident_time": "0:29",
-        "incident_number": "2024-00000011",
-        "incident_location": "222 BULL RUN ST",
-        "incident_nature": "Shooting",
+        "incident_time": "3:04",
+        "incident_number": "2024-00005523",
+        "incident_location": "3329 W MAIN ST",
+        "incident_nature": "Alarm",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "0:41",
-        "incident_number": "2024-00000004",
+        "incident_time": "3:05",
+        "incident_number": "2024-00005521",
+        "incident_location": "3101 CLASSEN BLVD",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "3:06",
+        "incident_number": "2024-00005522",
+        "incident_location": "441 E ROBINSON ST",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "3:12",
+        "incident_number": "2024-00005524",
+        "incident_location": "1920 12TH AVE NE",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "3:33",
+        "incident_number": "2024-00005525",
+        "incident_location": "2305 143RD AVE SE",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "3:42",
+        "incident_number": "2024-00001415",
+        "incident_location": "103 W TIMBERDELL RD",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "3:54",
+        "incident_number": "2024-00005526",
+        "incident_location": "1029 W LINDSEY ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "4:01",
+        "incident_number": "2024-00005527",
+        "incident_location": "W TECUMSEH RD / BNSF RR",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "4:07",
+        "incident_number": "2024-00005528",
+        "incident_location": "2142 W BROOKS ST",
+        "incident_nature": "Burglary",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "4:09",
+        "incident_number": "2024-00001753",
+        "incident_location": "3300 HEALTHPLEX PKWY",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "4:22",
+        "incident_number": "2024-00005529",
+        "incident_location": "558 12TH AVE SE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "4:33",
+        "incident_number": "2024-00005530",
+        "incident_location": "3710 DOGWOOD DR",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "4:38",
+        "incident_number": "2024-00005531",
+        "incident_location": "1611 CANTERBURY ST",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "4:57",
+        "incident_number": "2024-00001416",
+        "incident_location": "425 W EUFAULA ST",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "4:59",
+        "incident_number": "2024-00001417",
+        "incident_location": "1305 NORTHCLIFF AVE",
+        "incident_nature": "Heart Problems/AICD",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "4:59",
+        "incident_number": "2024-00001754",
+        "incident_location": "1305 NORTHCLIFF AVE",
+        "incident_nature": "Heart Problems/AICD",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "5:12",
+        "incident_number": "2024-00005532",
+        "incident_location": "1835 CHERRY STONE ST",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "5:17",
+        "incident_number": "2024-00001755",
+        "incident_location": "3300 HEALTHPLEX PKWY",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "5:20",
+        "incident_number": "2024-90000041",
+        "incident_location": "1611 CANTERBURY ST",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "6:03",
+        "incident_number": "2024-00001418",
+        "incident_location": "2407 KIOWA WAY",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "6:03",
+        "incident_number": "2024-00005533",
+        "incident_location": "2300 24TH AVE SW",
+        "incident_nature": "COP Problem Solving",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "6:05",
+        "incident_number": "2024-00005534",
+        "incident_location": "2339 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "6:06",
+        "incident_number": "2024-00005535",
+        "incident_location": "509 GOLDEN OAKS DR",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "6:23",
+        "incident_number": "2024-00001419",
+        "incident_location": "10600 STELLA RD",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "6:36",
+        "incident_number": "2024-00005537",
+        "incident_location": "W MAIN ST / I35 NB ON RAMP 109 EAST SPUR RAMP",
+        "incident_nature": "MVA Non Injury",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "6:42",
+        "incident_number": "2024-00005536",
+        "incident_location": "401 W MAIN ST",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "6:44",
+        "incident_number": "2024-00001420",
+        "incident_location": "800 CANADIAN TRAILS DR",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "6:52",
+        "incident_number": "2024-00005539",
+        "incident_location": "841 SIENA SPRINGS DR",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:10",
+        "incident_number": "2024-00005541",
+        "incident_location": "4701 HERITAGE PLACE DR",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:10",
+        "incident_number": "2024-00005538",
+        "incident_location": "2500 W TECUMSEH RD",
+        "incident_nature": "Motorist Assist",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:15",
+        "incident_number": "2024-00005540",
+        "incident_location": "W STATE HWY 9 HWY / 24TH AVE SW",
+        "incident_nature": "MVA Non Injury",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:29",
+        "incident_number": "2024-00001421",
+        "incident_location": "228 E DUFFY ST",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "7:30",
+        "incident_number": "2024-00005542",
+        "incident_location": "2000 BURGUNDY CT",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:38",
+        "incident_number": "2024-00005543",
+        "incident_location": "2909 WOODBRIAR DR",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:40",
+        "incident_number": "2024-00001422",
+        "incident_location": "4600 STABLE DR",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "7:41",
+        "incident_number": "2024-00005544",
+        "incident_location": "1287 24TH AVE SW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:47",
+        "incident_number": "2024-00005546",
+        "incident_location": "1400 ED NOBLE PKWY",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:48",
+        "incident_number": "2024-00005545",
+        "incident_location": "E FRANKLIN RD / 79TH AVE NE",
+        "incident_nature": "Motorist Assist",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:52",
+        "incident_number": "2024-00005547",
+        "incident_location": "1987 BEAUMONT DR",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:53",
+        "incident_number": "2024-00001423",
+        "incident_location": "201 REED AVE",
+        "incident_nature": "Convulsion/Seizure",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "7:53",
+        "incident_number": "2024-00001756",
+        "incident_location": "201 REED AVE",
+        "incident_nature": "Convulsion/Seizure",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "7:56",
+        "incident_number": "2024-00005549",
+        "incident_location": "2217 24TH AVE SW",
+        "incident_nature": "Animal Injured",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "7:59",
+        "incident_number": "2024-00005548",
+        "incident_location": "1341 24TH AVE SW",
+        "incident_nature": "COP Problem Solving",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:00",
+        "incident_number": "2024-00005564",
+        "incident_location": "1103 WOODS AVE",
+        "incident_nature": "Animal Complaint",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:04",
+        "incident_number": "2024-00001424",
+        "incident_location": "3821 BELHAVEN CIR",
+        "incident_nature": "Stroke",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "8:04",
+        "incident_number": "2024-00001757",
+        "incident_location": "3821 BELHAVEN CIR",
+        "incident_nature": "Stroke",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "8:06",
+        "incident_number": "2024-00001426",
+        "incident_location": "700 N BERRY RD",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "8:06",
+        "incident_number": "2024-00001759",
+        "incident_location": "700 N BERRY RD",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "8:07",
+        "incident_number": "2024-00001425",
+        "incident_location": "1111 24TH AVE SW",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "8:07",
+        "incident_number": "2024-00001758",
+        "incident_location": "1111 24TH AVE SW",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "8:08",
+        "incident_number": "2024-00005550",
+        "incident_location": "1300 24TH AVE SW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:10",
+        "incident_number": "2024-00005560",
+        "incident_location": "1101 HEARTHSTONE DR",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:10",
+        "incident_number": "2024-00005551",
+        "incident_location": "2476 36TH AVE NW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:11",
+        "incident_number": "2024-00001427",
+        "incident_location": "707 W BOYD ST",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "8:14",
+        "incident_number": "2024-00005552",
+        "incident_location": "35.1839716666667;-97.41977",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:18",
+        "incident_number": "2024-00005553",
+        "incident_location": "101 ANDOVER DR",
+        "incident_nature": "Animal Trapped",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:25",
+        "incident_number": "2024-00005554",
+        "incident_location": "2092 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:25",
+        "incident_number": "2024-00005555",
+        "incident_location": "1820 W TECUMSEH RD",
+        "incident_nature": "Stolen Vehicle",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:32",
+        "incident_number": "2024-00005557",
+        "incident_location": "W LINDSEY ST / ELM AVE",
+        "incident_nature": "Motorist Assist",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:32",
+        "incident_number": "2024-00001428",
+        "incident_location": "18201 E ALAMEDA ST",
+        "incident_nature": "Abdominal Pains/Problems",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "8:32",
+        "incident_number": "2024-00001760",
+        "incident_location": "18201 E ALAMEDA ST",
+        "incident_nature": "Abdominal Pains/Problems",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "8:38",
+        "incident_number": "2024-00005558",
+        "incident_location": "1031 LEXINGTON AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:45",
+        "incident_number": "2024-00001761",
+        "incident_location": "4554 W MAIN ST",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "8:53",
+        "incident_number": "2024-00005559",
+        "incident_location": "1305 24TH AVE SW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "8:54",
+        "incident_number": "2024-00005561",
+        "incident_location": "1938 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:07",
+        "incident_number": "2024-00005562",
+        "incident_location": "1001 LEXINGTON AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:10",
+        "incident_number": "2024-00005563",
+        "incident_location": "48TH AVE SE / E STATE HWY 9 HWY",
+        "incident_nature": "Motorist Assist",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:14",
+        "incident_number": "2024-00005575",
+        "incident_location": "1203 CLEARWATER DR",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:18",
+        "incident_number": "2024-00005565",
+        "incident_location": "W ROCK CREEK RD / INDUSTRIAL BLVD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:20",
+        "incident_number": "2024-00005566",
+        "incident_location": "2036 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:21",
+        "incident_number": "2024-00005576",
+        "incident_location": "201 W GRAY ST",
+        "incident_nature": "Found Item",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:24",
+        "incident_number": "2024-00005568",
+        "incident_location": "E MAIN ST / N JONES AVE",
+        "incident_nature": "MVA Non Injury",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:25",
+        "incident_number": "2024-00005567",
+        "incident_location": "1701 12TH AVE NE",
+        "incident_nature": "Disturbance/Domestic",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:28",
+        "incident_number": "2024-00005569",
+        "incident_location": "215 N PONCA AVE, NORMAN",
+        "incident_nature": "Harassment / Threats Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:29",
+        "incident_number": "2024-00005570",
+        "incident_location": "1328 KANSAS ST",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:32",
+        "incident_number": "2024-00005571",
+        "incident_location": "1243 24TH AVE SW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:35",
+        "incident_number": "2024-00005572",
+        "incident_location": "1896 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:37",
+        "incident_number": "2024-00001429",
+        "incident_location": "319 WOODCREST DR",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "9:40",
+        "incident_number": "2024-00001430",
+        "incident_location": "1900 RENAISSANCE DR",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "9:40",
+        "incident_number": "2024-00001762",
+        "incident_location": "1900 RENAISSANCE DR",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "9:44",
+        "incident_number": "2024-00005577",
+        "incident_location": "758 ASP AVE",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:44",
+        "incident_number": "2024-00005573",
+        "incident_location": "223 E GRAY ST",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:47",
+        "incident_number": "2024-00005574",
+        "incident_location": "1836 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:47",
+        "incident_number": "2024-00005585",
+        "incident_location": "1300 CROWN POINT AVE",
+        "incident_nature": "Supplement Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:55",
+        "incident_number": "2024-00005578",
+        "incident_location": "610 OLIVER ST",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "9:57",
+        "incident_number": "2024-00005579",
+        "incident_location": "GARRISON DR / MELROSE DR",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:04",
+        "incident_number": "2024-00005583",
+        "incident_location": "2900 EDINBURG DR",
+        "incident_nature": "Harassment / Threats Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:11",
+        "incident_number": "2024-00001431",
+        "incident_location": "2200 36TH AVE NW",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "10:13",
+        "incident_number": "2024-00001432",
+        "incident_location": "760 CLAREMONT DR",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "10:21",
+        "incident_number": "2024-00005580",
+        "incident_location": "SCHULZE DR / MORNINGSIDE DR",
+        "incident_nature": "Animal at Large",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:23",
+        "incident_number": "2024-00005581",
+        "incident_location": "60TH AVE SE / E STATE HWY 9 HWY",
+        "incident_nature": "Animal at Large",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:26",
+        "incident_number": "2024-00005582",
+        "incident_location": "2100 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:31",
+        "incident_number": "2024-00005584",
+        "incident_location": "2350 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:37",
+        "incident_number": "2024-00005586",
+        "incident_location": "1922 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:41",
+        "incident_number": "2024-00001433",
+        "incident_location": "1229 MOUNTAIN BROOK DR",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "10:41",
+        "incident_number": "2024-00001763",
+        "incident_location": "1229 MOUNTAIN BROOK DR",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "10:42",
+        "incident_number": "2024-00001764",
         "incident_location": "901 N PORTER AVE",
         "incident_nature": "Transfer/Interfacility",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "0:47",
-        "incident_number": "2024-00000013",
-        "incident_location": "1135 E BROOKS ST",
+        "incident_time": "10:43",
+        "incident_number": "2024-00005589",
+        "incident_location": "425 E TONHAWA ST",
+        "incident_nature": "Trespassing",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:44",
+        "incident_number": "2024-00005587",
+        "incident_location": "2178 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:44",
+        "incident_number": "2024-00005588",
+        "incident_location": "1412 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:50",
+        "incident_number": "2024-00005590",
+        "incident_location": "623 W ACRES ST",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "10:54",
+        "incident_number": "2024-00005591",
+        "incident_location": "3220 CHAUTAUQUA AVE",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "11:03",
+        "incident_number": "2024-00001434",
+        "incident_location": "309 W 3RD ST",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "11:10",
+        "incident_number": "2024-00005593",
+        "incident_location": "124 W FRANK ST",
+        "incident_nature": "Check Area",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "11:21",
+        "incident_number": "2024-00005594",
+        "incident_location": "401 12TH AVE SE",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "11:21",
+        "incident_number": "2024-00001770",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "11:25",
+        "incident_number": "2024-00001765",
+        "incident_location": "1776 E ROBINSON ST",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "11:29",
+        "incident_number": "2024-00005595",
+        "incident_location": "227 E MAIN ST",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "11:29",
+        "incident_number": "2024-00001435",
+        "incident_location": "1049 12TH AVE NE",
+        "incident_nature": "Falls",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "11:29",
+        "incident_number": "2024-00001766",
+        "incident_location": "1049 12TH AVE NE",
+        "incident_nature": "Falls",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "11:34",
+        "incident_number": "2024-00005596",
+        "incident_location": "BOARDWALK / 26TH AVE NW",
+        "incident_nature": "Reckless Driving",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "11:41",
+        "incident_number": "2024-00005597",
+        "incident_location": "3770 W ROBINSON ST",
         "incident_nature": "Disturbance/Domestic",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "0:48",
-        "incident_number": "2024-00000015",
-        "incident_location": "1147 BILOXI DR",
+        "incident_time": "11:41",
+        "incident_number": "2024-00001777",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "11:46",
+        "incident_number": "2024-00005598",
+        "incident_location": "S FINDLAY AVE / E SYMMES ST",
         "incident_nature": "Suspicious",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "0:50",
-        "incident_number": "2024-00000005",
+        "incident_time": "11:47",
+        "incident_number": "2024-00005602",
+        "incident_location": "2621 WYANDOTTE WAY",
+        "incident_nature": "Missing Person",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "11:48",
+        "incident_number": "2024-00005599",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Trespassing",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "11:52",
+        "incident_number": "2024-00001436",
+        "incident_location": "500 E ROBINSON ST",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "11:52",
+        "incident_number": "2024-00001767",
+        "incident_location": "500 E ROBINSON ST",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "12:01",
+        "incident_number": "2024-00005601",
+        "incident_location": "3301 W MAIN ST",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:05",
+        "incident_number": "2024-00005607",
+        "incident_location": "2825 DEWEY AVE",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:06",
+        "incident_number": "2024-00005600",
+        "incident_location": "215 N PONCA AVE, NORMAN",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:06",
+        "incident_number": "2024-00005611",
+        "incident_location": "3301 W MAIN ST",
+        "incident_nature": "Fraud",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:06",
+        "incident_number": "2024-00005633",
+        "incident_location": "3301 W MAIN ST",
+        "incident_nature": "Trespassing",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:11",
+        "incident_number": "2024-00005603",
+        "incident_location": "411 W MAIN ST",
+        "incident_nature": "Supplement Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:12",
+        "incident_number": "2024-00001437",
+        "incident_location": "425 W EUFAULA ST",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "12:13",
+        "incident_number": "2024-00005606",
+        "incident_location": "3100 CADDO LN",
+        "incident_nature": "Civil Standby",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:21",
+        "incident_number": "2024-00005604",
+        "incident_location": "3599 84TH AVE SE",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:23",
+        "incident_number": "2024-00005605",
+        "incident_location": "215 N PONCA AVE, NORMAN",
+        "incident_nature": "Follow Up",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:29",
+        "incident_number": "2024-00005624",
+        "incident_location": "1701 12TH AVE NE",
+        "incident_nature": "Harassment / Threats Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:29",
+        "incident_number": "2024-00001438",
+        "incident_location": "4150 48TH AVE NE",
+        "incident_nature": "Diabetic Problems",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "12:29",
+        "incident_number": "2024-00001768",
+        "incident_location": "4150 48TH AVE NE",
+        "incident_nature": "Diabetic Problems",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "12:31",
+        "incident_number": "2024-00001769",
         "incident_location": "2000 ANN BRANDEN BLVD",
         "incident_nature": "Transfer/Interfacility",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "0:53",
-        "incident_number": "2024-00000012",
-        "incident_location": "E GRAY ST / N CRAWFORD AVE",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "0:53",
-        "incident_number": "2024-00000014",
-        "incident_location": "E GRAY ST / N CRAWFORD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "0:54",
-        "incident_number": "2024-00000003",
-        "incident_location": "2550 W FRANKLIN RD",
-        "incident_nature": "Breathing Problems",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "0:54",
-        "incident_number": "2024-00000004",
-        "incident_location": "2550 W FRANKLIN RD",
-        "incident_nature": "Breathing Problems",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "1:02",
-        "incident_number": "2024-00000016",
-        "incident_location": "24TH AVE NW / DAKOTA ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:08",
-        "incident_number": "2024-00000018",
-        "incident_location": "CLASSEN BLVD / E BROOKS ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:14",
-        "incident_number": "2024-00000019",
-        "incident_location": "E LINDSEY ST / LINDSEY PLAZA DR",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:14",
-        "incident_number": "2024-00000021",
-        "incident_location": "1214 E BOYD ST",
-        "incident_nature": "Alarm",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:18",
-        "incident_number": "2024-00000020",
-        "incident_location": "404 SUNRISE ST",
-        "incident_nature": "Item Assignment",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:34",
-        "incident_number": "2024-00000005",
-        "incident_location": "12TH AVE SE / E STATE HWY 9 HWY",
-        "incident_nature": "Breathing Problems",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "1:34",
-        "incident_number": "2024-00000006",
-        "incident_location": "12TH AVE SE / E STATE HWY 9 HWY",
-        "incident_nature": "Breathing Problems",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "1:35",
-        "incident_number": "2024-00000008",
-        "incident_location": "3300 HEALTHPLEX PKWY",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "1:39",
-        "incident_number": "2024-00000023",
-        "incident_location": "W EUFAULA ST / S WEBSTER AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:41",
-        "incident_number": "2024-00000006",
-        "incident_location": "312 CHALMETTE DR",
-        "incident_nature": "Abdominal Pains/Problems",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "1:41",
-        "incident_number": "2024-00000007",
-        "incident_location": "312 CHALMETTE DR",
-        "incident_nature": "Abdominal Pains/Problems",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "1:47",
-        "incident_number": "2024-00000024",
-        "incident_location": "155 12TH AVE SE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:53",
-        "incident_number": "2024-00000025",
-        "incident_location": "ELM AVE / W BOYD ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:58",
-        "incident_number": "2024-00000032",
-        "incident_location": "2501 CONFERENCE DR",
-        "incident_nature": "Larceny",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "1:59",
-        "incident_number": "2024-00000026",
-        "incident_location": "2105 WYCKHAM PL",
-        "incident_nature": "Check Area",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:02",
-        "incident_number": "2024-00000027",
-        "incident_location": "W JOHNSON ST / N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:04",
-        "incident_number": "2024-00000031",
-        "incident_location": "752 ASP AVE",
-        "incident_nature": "Alarm",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:05",
-        "incident_number": "2024-00000028",
-        "incident_location": "S WEBSTER AVE / W SYMMES ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:08",
-        "incident_number": "2024-00000030",
-        "incident_location": "211 W BOYD ST",
-        "incident_nature": "Fight",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:08",
-        "incident_number": "2024-00000029",
-        "incident_location": "404 SUNRISE ST",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:10",
-        "incident_number": "2024-00000033",
-        "incident_location": "PAGE ST / TROUT AVE",
-        "incident_nature": "Noise Complaint",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:16",
-        "incident_number": "2024-00000007",
-        "incident_location": "909 BRANDYWINE LN",
-        "incident_nature": "Medical Call Pd Requested",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "2:16",
-        "incident_number": "2024-00000009",
-        "incident_location": "909 BRANDYWINE LN",
-        "incident_nature": "Medical Call Pd Requested",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "2:20",
-        "incident_number": "2024-00000034",
-        "incident_location": "201 S CREEKDALE DR",
-        "incident_nature": "Shots Heard",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:30",
-        "incident_number": "2024-00000035",
-        "incident_location": "CLASSEN BLVD / 12TH AVE SE",
-        "incident_nature": "Motorist Assist",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:40",
-        "incident_number": "2024-00000036",
-        "incident_location": "2420 CLASSEN BLVD",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "2:42",
-        "incident_number": "2024-00000037",
-        "incident_location": "201 S CREEKDALE DR",
-        "incident_nature": "Welfare Check",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "3:25",
-        "incident_number": "2024-00000010",
-        "incident_location": "901 N PORTER AVE",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "3:30",
-        "incident_number": "2024-00000011",
-        "incident_location": "1544 OK-9",
-        "incident_nature": "Sick Person",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "3:33",
-        "incident_number": "2024-00000039",
-        "incident_location": "900 E LINDSEY ST",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "3:39",
-        "incident_number": "2024-00000042",
-        "incident_location": "2211 W MAIN ST",
-        "incident_nature": "Alarm",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "3:39",
-        "incident_number": "2024-00000040",
-        "incident_location": "3404 RIVERWALK DR",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "3:53",
-        "incident_number": "2024-00000041",
-        "incident_location": "1115 BRANDYWINE LN",
-        "incident_nature": "Welfare Check",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "3:56",
-        "incident_number": "2024-00000045",
-        "incident_location": "805 KENWOOD DR",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "3:59",
-        "incident_number": "2024-00000043",
-        "incident_location": "2556 CLASSEN BLVD",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "4:06",
-        "incident_number": "2024-00000044",
-        "incident_location": "1147 BILOXI DR",
-        "incident_nature": "Shots Heard",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "4:37",
-        "incident_number": "2024-00000046",
-        "incident_location": "2400 W ROBINSON ST",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "4:39",
-        "incident_number": "2024-00000008",
-        "incident_location": "2900 CHAUTAUQUA AVE",
-        "incident_nature": "Fire Commercial",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "4:39",
-        "incident_number": "2024-00000012",
-        "incident_location": "2900 CHAUTAUQUA AVE",
-        "incident_nature": "Fire Commercial",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "4:39",
-        "incident_number": "2024-00000047",
-        "incident_location": "2900 CHAUTAUQUA AVE",
-        "incident_nature": "911 Call Nature Unknown",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "5:05",
-        "incident_number": "2024-00000013",
-        "incident_location": "3300 HEALTHPLEX PKWY",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "5:10",
-        "incident_number": "2024-00000010",
-        "incident_location": "1406 HURON ST",
-        "incident_nature": "Traumatic Injury",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "5:10",
-        "incident_number": "2024-00000015",
-        "incident_location": "1406 HURON ST",
-        "incident_nature": "Traumatic Injury",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "5:10",
-        "incident_number": "2024-00000048",
-        "incident_location": "1406 HURON ST",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "5:20",
-        "incident_number": "2024-00000009",
-        "incident_location": "1050 RAMBLING OAKS DR",
-        "incident_nature": "Breathing Problems",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "5:20",
-        "incident_number": "2024-00000014",
-        "incident_location": "1050 RAMBLING OAKS DR",
-        "incident_nature": "Breathing Problems",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "5:39",
-        "incident_number": "2024-00000011",
-        "incident_location": "18101 E ALAMEDA ST",
-        "incident_nature": "Sick Person",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "5:39",
-        "incident_number": "2024-00000016",
-        "incident_location": "18101 E ALAMEDA ST",
-        "incident_nature": "Sick Person",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "5:40",
-        "incident_number": "2024-00000049",
-        "incident_location": "3601 N FLOOD AVE",
-        "incident_nature": "Trespassing",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "5:51",
-        "incident_number": "2024-00000050",
-        "incident_location": "2361 ALAMEDA ST",
-        "incident_nature": "Welfare Check",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "6:48",
-        "incident_number": "2024-00000012",
-        "incident_location": "113 W GRAY ST",
-        "incident_nature": "Abdominal Pains/Problems",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "6:48",
-        "incident_number": "2024-00000017",
-        "incident_location": "113 W GRAY ST",
-        "incident_nature": "Abdominal Pains/Problems",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "6:55",
-        "incident_number": "2024-00000051",
-        "incident_location": "1407 N PORTER AVE",
-        "incident_nature": "Check Area",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "6:57",
-        "incident_number": "2024-00000054",
-        "incident_location": "12TH AVE SE / E LINDSEY ST",
-        "incident_nature": "Check Area",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "6:57",
-        "incident_number": "2024-00000053",
-        "incident_location": "2657 CLASSEN BLVD",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "6:57",
-        "incident_number": "2024-00000052",
-        "incident_location": "220 SKYLARK CT",
-        "incident_nature": "Extra Patrol",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "7:04",
-        "incident_number": "2024-00000055",
-        "incident_location": "W STATE HWY 9 HWY / W IMHOFF RD",
-        "incident_nature": "Welfare Check",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "7:38",
-        "incident_number": "2024-00000056",
-        "incident_location": "1920 12TH AVE NE",
-        "incident_nature": "Check Area",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "7:42",
-        "incident_number": "2024-00000057",
-        "incident_location": "1217 E LINDSEY ST",
-        "incident_nature": "Check Area",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "7:42",
-        "incident_number": "2024-00000013",
-        "incident_location": "1008 BENTBROOK PL",
-        "incident_nature": "Unconscious/Fainting",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "7:42",
-        "incident_number": "2024-00000018",
-        "incident_location": "1008 BENTBROOK PL",
-        "incident_nature": "Unconscious/Fainting",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "7:47",
-        "incident_number": "2024-00000058",
-        "incident_location": "10621 E STATE HWY 9 HWY",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "7:52",
-        "incident_number": "2024-00000060",
-        "incident_location": "201 W GRAY ST",
-        "incident_nature": "Molesting",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "7:54",
-        "incident_number": "2024-00000014",
-        "incident_location": "456 WATERFRONT DR",
-        "incident_nature": "Chest Pain",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "7:54",
-        "incident_number": "2024-00000019",
-        "incident_location": "456 WATERFRONT DR",
-        "incident_nature": "Chest Pain",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "7:56",
-        "incident_number": "2024-00000059",
-        "incident_location": "1905 RISING HILL DR",
-        "incident_nature": "Shots Heard",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "8:19",
-        "incident_number": "2024-00000020",
-        "incident_location": "901 N PORTER AVE",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "8:20",
-        "incident_number": "2024-00000021",
-        "incident_location": "700 S TELEPHONE RD",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "8:46",
-        "incident_number": "2024-00000016",
-        "incident_location": "1010 N FLOOD AVE",
-        "incident_nature": "Fire Controlled Burn",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "8:46",
-        "incident_number": "2024-00000061",
-        "incident_location": "1010 N FLOOD AVE",
-        "incident_nature": "Trespassing",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "8:49",
-        "incident_number": "2024-00000015",
-        "incident_location": "1412 24TH AVE SE",
-        "incident_nature": "Breathing Problems",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "8:49",
-        "incident_number": "2024-00000022",
-        "incident_location": "1412 24TH AVE SE",
-        "incident_nature": "Breathing Problems",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "8:58",
-        "incident_number": "2024-00000062",
-        "incident_location": "2627 CLASSEN BLVD",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:04",
-        "incident_number": "2024-00000023",
-        "incident_location": "3300 HEALTHPLEX PKWY",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "9:05",
-        "incident_number": "2024-00000064",
-        "incident_location": "201 REED AVE",
-        "incident_nature": "Larceny",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:11",
-        "incident_number": "2024-00000063",
-        "incident_location": "2627 CLASSEN BOULEVARD",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:18",
-        "incident_number": "2024-00000065",
-        "incident_location": "901 N PORTER AVE",
-        "incident_nature": "Escort/Transport",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:29",
-        "incident_number": "2024-00000066",
-        "incident_location": "12TH AVE SE / E STATE HWY 9 HWY",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:30",
-        "incident_number": "2024-00000067",
-        "incident_location": "201 REED AVE",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:45",
-        "incident_number": "2024-00000068",
-        "incident_location": "N FLOOD AVE / W ROBINSON ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:50",
-        "incident_number": "2024-00000069",
-        "incident_location": "1809 STUBBEMAN AVE",
-        "incident_nature": "Alarm",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:53",
-        "incident_number": "2024-00000070",
-        "incident_location": "1785 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "9:54",
-        "incident_number": "2024-00000001",
-        "incident_location": "19674 TEALWOOD RD",
-        "incident_nature": "Public Assist",
-        "incident_ori": "14009"
-    },
-    {
-        "incident_time": "9:54",
-        "incident_number": "2024-00000017",
-        "incident_location": "19674 TEALWOOD RD",
-        "incident_nature": "Public Assist",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "9:54",
-        "incident_number": "2024-00000024",
-        "incident_location": "19674 TEALWOOD RD",
-        "incident_nature": "Falls",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "9:56",
-        "incident_number": "2024-00000071",
-        "incident_location": "1405 CONCORD DR",
-        "incident_nature": "Extra Patrol",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:01",
-        "incident_number": "2024-00000072",
-        "incident_location": "E LINDSEY ST / CLASSEN BLVD",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:02",
-        "incident_number": "2024-00000073",
-        "incident_location": "N FLOOD AVE / W ROBINSON ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:10",
-        "incident_number": "2024-00000074",
-        "incident_location": "1883 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:17",
-        "incident_number": "2024-00000075",
-        "incident_location": "ANDOVER DR / ALAMEDA ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:20",
-        "incident_number": "2024-00000018",
-        "incident_location": "301 E DALE ST",
-        "incident_nature": "Stroke",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "10:20",
-        "incident_number": "2024-00000025",
-        "incident_location": "301 E DALE ST",
-        "incident_nature": "Stroke",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "10:20",
-        "incident_number": "2024-00000076",
-        "incident_location": "823 E STATE HWY 9 HWY",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:25",
-        "incident_number": "2024-00000079",
-        "incident_location": "201 W GRAY ST",
-        "incident_nature": "Found Item",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:27",
-        "incident_number": "2024-00000077",
-        "incident_location": "1400 BILL CARROL DR",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:28",
-        "incident_number": "2024-00000078",
-        "incident_location": "1500 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:34",
-        "incident_number": "2024-00000080",
-        "incident_location": "1535 E STATE HWY 9 HWY",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:38",
-        "incident_number": "2024-00000081",
-        "incident_location": "1500 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:38",
-        "incident_number": "2024-00000082",
-        "incident_location": "1735 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:49",
-        "incident_number": "2024-00000086",
-        "incident_location": "318 E HAYES ST",
-        "incident_nature": "Larceny",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:49",
-        "incident_number": "2024-00000083",
-        "incident_location": "1853 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:49",
-        "incident_number": "2024-00000084",
-        "incident_location": "1829 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "10:51",
-        "incident_number": "2024-00000019",
-        "incident_location": "2105 BARRINGTON DR",
-        "incident_nature": "Public Assist",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "10:57",
-        "incident_number": "2024-00000085",
-        "incident_location": "1151 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:03",
-        "incident_number": "2024-00000087",
-        "incident_location": "1865 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:05",
-        "incident_number": "2024-00000088",
-        "incident_location": "1887 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:07",
-        "incident_number": "2024-00000096",
-        "incident_location": "1500 12TH AVE NE",
-        "incident_nature": "Trespassing",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:12",
-        "incident_number": "2024-00000089",
-        "incident_location": "1320 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:16",
-        "incident_number": "2024-00000092",
-        "incident_location": "201 REED AVE",
-        "incident_nature": "Larceny",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:20",
-        "incident_number": "2024-00000026",
-        "incident_location": "700 S TELEPHONE RD",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "11:21",
-        "incident_number": "2024-00000091",
-        "incident_location": "1207 CAMDEN WAY",
-        "incident_nature": "Larceny",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:21",
-        "incident_number": "2024-00000090",
-        "incident_location": "318 E HAYES ST",
-        "incident_nature": "Follow Up",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:23",
-        "incident_number": "2024-00000027",
-        "incident_location": "3300 HEALTHPLEX PKWY",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "11:29",
-        "incident_number": "2024-00000095",
-        "incident_location": "504 GOLDEN OAKS DR",
-        "incident_nature": "Harassment / Threats Report",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:30",
-        "incident_number": "2024-00000093",
-        "incident_location": "733 W MAIN ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:33",
-        "incident_number": "2024-00000094",
-        "incident_location": "1200 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:40",
-        "incident_number": "2024-00000097",
-        "incident_location": "2500 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:46",
-        "incident_number": "2024-00000020",
-        "incident_location": "502 S UNIVERSITY BLVD",
-        "incident_nature": "Chest Pain",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "11:46",
-        "incident_number": "2024-00000028",
-        "incident_location": "502 S UNIVERSITY BLVD",
-        "incident_nature": "Chest Pain",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "11:50",
-        "incident_number": "2024-00000098",
-        "incident_location": "1188 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:53",
-        "incident_number": "2024-00000100",
-        "incident_location": "2543 W MAIN ST",
-        "incident_nature": "Found Item",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "11:58",
-        "incident_number": "2024-00000099",
-        "incident_location": "1750 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "12:09",
-        "incident_number": "2024-00000101",
-        "incident_location": "1186 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "12:18",
-        "incident_number": "2024-00000102",
-        "incident_location": "1215 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "12:21",
-        "incident_number": "2024-00000103",
-        "incident_location": "401 12TH AVE SE",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "12:29",
-        "incident_number": "2024-00000104",
-        "incident_location": "1215 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "12:31",
-        "incident_number": "2024-00000029",
-        "incident_location": "3300 HEALTHPLEX PKWY",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "12:34",
-        "incident_number": "2024-00000105",
-        "incident_location": "1280W W MAIN ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
         "incident_time": "12:38",
-        "incident_number": "2024-00000106",
-        "incident_location": "1209 12TH AVE SE",
-        "incident_nature": "Contact a Subject",
+        "incident_number": "2024-00005608",
+        "incident_location": "333 12TH AVE SE",
+        "incident_nature": "Larceny",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "12:38",
-        "incident_number": "2024-00000107",
-        "incident_location": "1665 BEAUMONT DR",
+        "incident_time": "12:43",
+        "incident_number": "2024-00005609",
+        "incident_location": "1919 W TECUMSEH RD",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "12:39",
-        "incident_number": "2024-00000108",
-        "incident_location": "S FLOOD AVE / W LINDSEY ST",
+        "incident_time": "12:43",
+        "incident_number": "2024-00005610",
+        "incident_location": "910 ALAMEDA ST",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "12:45",
-        "incident_number": "2024-00000109",
-        "incident_location": "1301 12TH AVE SE",
+        "incident_time": "12:44",
+        "incident_number": "2024-00005612",
+        "incident_location": "E IMHOFF RD / 144TH AVE SE",
         "incident_nature": "Warrant Service",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "12:50",
-        "incident_number": "2024-00000110",
-        "incident_location": "4109 HUGHES CIR",
-        "incident_nature": "Shots Heard",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "12:56",
-        "incident_number": "2024-00000111",
-        "incident_location": "1200 W LINDSEY DR",
+        "incident_time": "12:48",
+        "incident_number": "2024-00005613",
+        "incident_location": "1776 W TECUMSEH RD",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "13:09",
-        "incident_number": "2024-00000021",
-        "incident_location": "909 BRANDYWINE LN",
+        "incident_time": "12:48",
+        "incident_number": "2024-00005614",
+        "incident_location": "923 N FLOOD AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:54",
+        "incident_number": "2024-00005615",
+        "incident_location": "1162 24TH AVE NE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "12:59",
+        "incident_number": "2024-00001439",
+        "incident_location": "4316 COUNTRY CLUB TER",
+        "incident_nature": "Medical Call Pd Requested",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "12:59",
+        "incident_number": "2024-00001771",
+        "incident_location": "4316 COUNTRY CLUB TER",
+        "incident_nature": "Medical Call Pd Requested",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "13:01",
+        "incident_number": "2024-00001773",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "13:02",
+        "incident_number": "2024-00005616",
+        "incident_location": "1774 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:03",
+        "incident_number": "2024-00001440",
+        "incident_location": "2500 MEADOWOOD BLVD",
+        "incident_nature": "Medical Call Pd Requested",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "13:03",
+        "incident_number": "2024-00001772",
+        "incident_location": "2500 MEADOWOOD BLVD",
+        "incident_nature": "Medical Call Pd Requested",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "13:04",
+        "incident_number": "2024-00005617",
+        "incident_location": "1784 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:07",
+        "incident_number": "2024-00005618",
+        "incident_location": "3801 SUNVALLEY DR",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:07",
+        "incident_number": "2024-00005619",
+        "incident_location": "N COCKREL AVE / E HAYES ST",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:14",
+        "incident_number": "2024-00005620",
+        "incident_location": "172 24TH AVE NW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:21",
+        "incident_number": "2024-00005621",
+        "incident_location": "200 W LINN ST",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:21",
+        "incident_number": "2024-00001441",
+        "incident_location": "433 W LINDSEY ST",
         "incident_nature": "Sick Person",
         "incident_ori": "14005"
     },
     {
-        "incident_time": "13:09",
-        "incident_number": "2024-00000030",
-        "incident_location": "909 BRANDYWINE LN",
+        "incident_time": "13:21",
+        "incident_number": "2024-00001774",
+        "incident_location": "433 W LINDSEY ST",
         "incident_nature": "Sick Person",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "13:11",
-        "incident_number": "2024-00000112",
-        "incident_location": "128 E HUGHBERT ST",
+        "incident_time": "13:22",
+        "incident_number": "2024-00005622",
+        "incident_location": "1774 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:26",
+        "incident_number": "2024-00005623",
+        "incident_location": "1886 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:28",
+        "incident_number": "2024-00005625",
+        "incident_location": "3651 N FLOOD AVE",
         "incident_nature": "Contact a Subject",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "13:12",
-        "incident_number": "2024-00000123",
-        "incident_location": "3651 CLASSEN BLVD",
-        "incident_nature": "Fraud",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "13:17",
-        "incident_number": "2024-00000116",
-        "incident_location": "418 N INTERSTATE DR",
-        "incident_nature": "Motorist Assist",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "13:21",
-        "incident_number": "2024-00000122",
-        "incident_location": "710 TERRY DR",
-        "incident_nature": "Vandalism",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "13:21",
-        "incident_number": "2024-00000114",
-        "incident_location": "101 ED NOBLE PKWY",
-        "incident_nature": "Welfare Check",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "13:23",
-        "incident_number": "2024-00000117",
-        "incident_location": "1898 LEGACY PARK DR",
-        "incident_nature": "Check Area",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "13:24",
-        "incident_number": "2024-00000113",
-        "incident_location": "615 W MAIN ST",
-        "incident_nature": "Welfare Check",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "13:29",
-        "incident_number": "2024-00000115",
-        "incident_location": "631 SINCLAIR DR",
+        "incident_time": "13:32",
+        "incident_number": "2024-00005626",
+        "incident_location": "2900 EDINBURG DR",
         "incident_nature": "Disturbance/Domestic",
         "incident_ori": "OK0140200"
     },
     {
         "incident_time": "13:33",
-        "incident_number": "2024-00000022",
-        "incident_location": "3110 HEALTHPLEX PKWY",
-        "incident_nature": "Breathing Problems",
+        "incident_number": "2024-00001442",
+        "incident_location": "3400 W MAIN ST",
+        "incident_nature": "Sick Person",
         "incident_ori": "14005"
     },
     {
         "incident_time": "13:33",
-        "incident_number": "2024-00000031",
-        "incident_location": "3110 HEALTHPLEX PKWY",
-        "incident_nature": "Breathing Problems",
+        "incident_number": "2024-00001775",
+        "incident_location": "3400 W MAIN ST",
+        "incident_nature": "Sick Person",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "13:40",
-        "incident_number": "2024-00000023",
-        "incident_location": "2501 CONFERENCE DR",
-        "incident_nature": "Fire Commercial",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "13:40",
-        "incident_number": "2024-00000032",
-        "incident_location": "2501 CONFERENCE DR",
-        "incident_nature": "Fire Commercial",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "13:53",
-        "incident_number": "2024-00000119",
-        "incident_location": "1601 WESTBROOKE TER",
-        "incident_nature": "Vandalism",
+        "incident_time": "13:36",
+        "incident_number": "2024-00005627",
+        "incident_location": "3010 CLASSEN BLVD",
+        "incident_nature": "COP Problem Solving",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "13:53",
-        "incident_number": "2024-00000118",
-        "incident_location": "1316 SUNSET DR",
-        "incident_nature": "Alarm",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "14:11",
-        "incident_number": "2024-00000149",
-        "incident_location": "3210 TIMBER SHADOWS DR",
-        "incident_nature": "Fraud",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "14:14",
-        "incident_number": "2024-00000120",
-        "incident_location": "1836 W ROBINSON ST",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "14:21",
-        "incident_number": "2024-00000121",
-        "incident_location": "1314 W LINDSEY ST",
+        "incident_time": "13:38",
+        "incident_number": "2024-00005628",
+        "incident_location": "4200 E STATE HWY 9",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:26",
-        "incident_number": "2024-00000024",
-        "incident_location": "615 W MAIN ST",
-        "incident_nature": "Falls",
+        "incident_time": "13:38",
+        "incident_number": "2024-00005629",
+        "incident_location": "4200 E STATE HWY 9",
+        "incident_nature": "COP Problem Solving",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:40",
+        "incident_number": "2024-00005630",
+        "incident_location": "ALAMEDA ST / 12TH AVE NE",
+        "incident_nature": "Drunk Driver",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:40",
+        "incident_number": "2024-00001443",
+        "incident_location": "601 12TH AVE NE",
+        "incident_nature": "Allergies/Envenomations",
         "incident_ori": "14005"
     },
     {
-        "incident_time": "14:26",
-        "incident_number": "2024-00000033",
-        "incident_location": "615 W MAIN ST",
-        "incident_nature": "Falls",
+        "incident_time": "13:40",
+        "incident_number": "2024-00001776",
+        "incident_location": "601 12TH AVE NE",
+        "incident_nature": "Allergies/Envenomations",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "14:29",
-        "incident_number": "2024-00000124",
-        "incident_location": "1601 WESTBROOKE TER",
+        "incident_time": "13:41",
+        "incident_number": "2024-00005631",
+        "incident_location": "E LINDSEY ST / 24TH AVE SE",
+        "incident_nature": "COP DDACTS",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:44",
+        "incident_number": "2024-00005632",
+        "incident_location": "3709 BELLWOOD DR",
+        "incident_nature": "Animal Dead",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:49",
+        "incident_number": "2024-00005634",
+        "incident_location": "E STATE HWY 9 HWY / BELLATONA BLVD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:49",
+        "incident_number": "2024-00005635",
+        "incident_location": "1774 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:54",
+        "incident_number": "2024-00005636",
+        "incident_location": "2900 W LINDSEY ST",
+        "incident_nature": "Fraud",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:56",
+        "incident_number": "2024-00005643",
+        "incident_location": "1800 BEAUMONT DR",
+        "incident_nature": "Supplement Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:57",
+        "incident_number": "2024-00005644",
+        "incident_location": "101 N UNIVERSITY BLVD",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:58",
+        "incident_number": "2024-00005637",
+        "incident_location": "1917 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "13:58",
+        "incident_number": "2024-00005638",
+        "incident_location": "2408 ALAMEDA ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:00",
+        "incident_number": "2024-00005639",
+        "incident_location": "201 W GRAY ST",
+        "incident_nature": "Follow Up",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:00",
+        "incident_number": "2024-00005640",
+        "incident_location": "911 W MAIN ST",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:00",
+        "incident_number": "2024-00001444",
+        "incident_location": "1215 E ROBINSON ST",
+        "incident_nature": "Assist Police",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "14:00",
+        "incident_number": "2024-00005641",
+        "incident_location": "10583 ALAMEDA DR",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:03",
+        "incident_number": "2024-00005642",
+        "incident_location": "1804 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:06",
+        "incident_number": "2024-00005645",
+        "incident_location": "1550 24TH AVE NW",
         "incident_nature": "Larceny",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:31",
-        "incident_number": "2024-00000125",
-        "incident_location": "1220 W LINDSEY ST",
+        "incident_time": "14:08",
+        "incident_number": "2024-00001792",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "14:08",
+        "incident_number": "2024-00005646",
+        "incident_location": "620 TIMBERBROOK DR",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:11",
+        "incident_number": "2024-00005647",
+        "incident_location": "911 W MAIN ST",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:12",
+        "incident_number": "2024-00005648",
+        "incident_location": "2010 W TECUMSEH RD",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:32",
-        "incident_number": "2024-00000126",
-        "incident_location": "3307 E STATE HWY 9 HWY",
+        "incident_time": "14:13",
+        "incident_number": "2024-00005649",
+        "incident_location": "589 24TH AVE NE",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:34",
-        "incident_number": "2024-00000127",
-        "incident_location": "117 COOK AVE",
+        "incident_time": "14:15",
+        "incident_number": "2024-00005650",
+        "incident_location": "1774 W TECUMSEH RD",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:36",
-        "incident_number": "2024-00000128",
-        "incident_location": "1325 W LINDSEY ST",
+        "incident_time": "14:17",
+        "incident_number": "2024-00005651",
+        "incident_location": "W MAIN ST / WILLOWAY DR",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:21",
+        "incident_number": "2024-00005652",
+        "incident_location": "8400 E FRANKLIN RD",
+        "incident_nature": "Motorist Assist",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:24",
+        "incident_number": "2024-00005653",
+        "incident_location": "1774 W TECUMSEH RD",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:38",
-        "incident_number": "2024-00000129",
-        "incident_location": "W LINDSEY ST / S BERRY RD",
+        "incident_time": "14:26",
+        "incident_number": "2024-00005654",
+        "incident_location": "475 24TH AVE NE",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:45",
-        "incident_number": "2024-00000130",
-        "incident_location": "1134 W LINDSEY ST",
+        "incident_time": "14:27",
+        "incident_number": "2024-00001445",
+        "incident_location": "200 S PETERS AVE",
+        "incident_nature": "Convulsion/Seizure",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "14:27",
+        "incident_number": "2024-00001778",
+        "incident_location": "200 S PETERS AVE",
+        "incident_nature": "Convulsion/Seizure",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "14:28",
+        "incident_number": "2024-00005660",
+        "incident_location": "2657 CLASSEN BLVD",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:28",
+        "incident_number": "2024-00005655",
+        "incident_location": "423 E DUFFY ST",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:28",
+        "incident_number": "2024-00005656",
+        "incident_location": "1878 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:33",
+        "incident_number": "2024-00005665",
+        "incident_location": "N PETERS AVE / AMERICANA CT",
+        "incident_nature": "Check Area",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:35",
+        "incident_number": "2024-00005657",
+        "incident_location": "4250 W TECUMSEH RD",
+        "incident_nature": "COP Relationships",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:35",
+        "incident_number": "2024-00005658",
+        "incident_location": "250 N COCKREL AVE",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:37",
+        "incident_number": "2024-00005659",
+        "incident_location": "1774 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:40",
+        "incident_number": "2024-00005662",
+        "incident_location": "727 N FINDLAY AVE",
+        "incident_nature": "Burglary",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:40",
+        "incident_number": "2024-00005661",
+        "incident_location": "1466 GLEN OAKS DR",
+        "incident_nature": "Follow Up",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:43",
+        "incident_number": "2024-00005663",
+        "incident_location": "1616 ALAMEDA ST",
+        "incident_nature": "Animal Injured",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:44",
+        "incident_number": "2024-00005664",
+        "incident_location": "3606 TECUMSEH DR",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "14:48",
+        "incident_number": "2024-00005666",
+        "incident_location": "1776 W TECUMSEH RD",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
         "incident_time": "14:50",
-        "incident_number": "2024-00000131",
-        "incident_location": "1170 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
+        "incident_number": "2024-00005669",
+        "incident_location": "703 N COCKREL AVE",
+        "incident_nature": "Suspicious",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:54",
-        "incident_number": "2024-00000132",
-        "incident_location": "1440 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
+        "incident_time": "14:51",
+        "incident_number": "2024-00005668",
+        "incident_location": "2505 W MAIN ST",
+        "incident_nature": "MVA Non Injury",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:57",
-        "incident_number": "2024-00000025",
-        "incident_location": "622 UTAH AVE",
-        "incident_nature": "Public Assist",
-        "incident_ori": "14005"
+        "incident_time": "14:53",
+        "incident_number": "2024-00005667",
+        "incident_location": "5300 N INTERSTATE DR",
+        "incident_nature": "COP Relationships",
+        "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:57",
-        "incident_number": "2024-00000034",
-        "incident_location": "622 UTAH AVE",
-        "incident_nature": "Falls",
-        "incident_ori": "EMSSTAT"
+        "incident_time": "14:55",
+        "incident_number": "2024-00005671",
+        "incident_location": "1432 24TH AVE SE",
+        "incident_nature": "Warrant Service",
+        "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "14:57",
-        "incident_number": "2024-00000139",
-        "incident_location": "622 UTAH AVE",
-        "incident_nature": "Assist Police",
+        "incident_time": "14:56",
+        "incident_number": "2024-00005670",
+        "incident_location": "1917 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
         "incident_time": "14:59",
-        "incident_number": "2024-00000135",
-        "incident_location": "1112 MCGEE DR",
-        "incident_nature": "Animal Complaint",
+        "incident_number": "2024-00005673",
+        "incident_location": "1714 OAKWOOD DR",
+        "incident_nature": "Animal Injured",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "15:01",
-        "incident_number": "2024-00000133",
-        "incident_location": "3861 E STATE HWY 9 HWY",
+        "incident_time": "15:00",
+        "incident_number": "2024-00005672",
+        "incident_location": "1778 W TECUMSEH RD",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
         "incident_time": "15:01",
-        "incident_number": "2024-00000134",
-        "incident_location": "1186 S BERRY RD",
+        "incident_number": "2024-00005674",
+        "incident_location": "600 PARKSIDE RD",
+        "incident_nature": "COP Relationships",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:01",
+        "incident_number": "2024-00001779",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "15:03",
+        "incident_number": "2024-00005675",
+        "incident_location": "300 12TH AVE NE",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
         "incident_time": "15:04",
-        "incident_number": "2024-00000026",
-        "incident_location": "E STATE HWY 9 HWY / 168TH AVE NE",
-        "incident_nature": "Fire Grass",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "15:06",
-        "incident_number": "2024-00000136",
-        "incident_location": "1300 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:09",
-        "incident_number": "2024-00000140",
-        "incident_location": "2117 MEMPHIS DR",
-        "incident_nature": "Hit and Run",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:10",
-        "incident_number": "2024-00000137",
-        "incident_location": "446 S FINDLAY AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:13",
-        "incident_number": "2024-00000138",
-        "incident_location": "S BERRY RD / W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:18",
-        "incident_number": "2024-00000142",
-        "incident_location": "301 HAL MULDROW DR",
+        "incident_number": "2024-00005677",
+        "incident_location": "3550 W MAIN ST",
         "incident_nature": "Welfare Check",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "15:20",
-        "incident_number": "2024-00000141",
-        "incident_location": "1215 W LINDSEY ST",
+        "incident_time": "15:06",
+        "incident_number": "2024-00005676",
+        "incident_location": "1915 W TECUMSEH RD",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "15:29",
-        "incident_number": "2024-00000143",
-        "incident_location": "1356 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:30",
-        "incident_number": "2024-00000144",
-        "incident_location": "2025 W LINDSEY ST",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:35",
-        "incident_number": "2024-00000027",
-        "incident_location": "301 E DALE ST",
-        "incident_nature": "Falls",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "15:35",
-        "incident_number": "2024-00000035",
-        "incident_location": "301 E DALE ST",
-        "incident_nature": "Falls",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "15:40",
-        "incident_number": "2024-00000154",
-        "incident_location": "3301 W MAIN ST",
-        "incident_nature": "Assault",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:41",
-        "incident_number": "2024-00000036",
-        "incident_location": "2000 ANN BRANDEN BLVD",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "15:45",
-        "incident_number": "2024-00000148",
-        "incident_location": "156TH AVE SE / E HAYFIELD RD",
-        "incident_nature": "Animal Livestock",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:51",
-        "incident_number": "2024-00000145",
-        "incident_location": "1213 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:52",
-        "incident_number": "2024-00000146",
-        "incident_location": "1213 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:55",
-        "incident_number": "2024-00000147",
-        "incident_location": "201 W GRAY ST",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "15:59",
-        "incident_number": "2024-00000150",
-        "incident_location": "1523 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:02",
-        "incident_number": "2024-00000028",
-        "incident_location": "1932 E LINDSEY ST",
-        "incident_nature": "Abdominal Pains/Problems",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "16:02",
-        "incident_number": "2024-00000037",
-        "incident_location": "1932 E LINDSEY ST",
-        "incident_nature": "Abdominal Pains/Problems",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "16:04",
-        "incident_number": "2024-00000029",
-        "incident_location": "2021 ALAMEDA ST",
-        "incident_nature": "Diabetic Problems",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "16:04",
-        "incident_number": "2024-00000038",
-        "incident_location": "2021 ALAMEDA ST",
-        "incident_nature": "Diabetic Problems",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "16:05",
-        "incident_number": "2024-00000151",
-        "incident_location": "1213 W LINDSEY ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:07",
-        "incident_number": "2024-00000155",
-        "incident_location": "3550 W ROBINSON ST",
-        "incident_nature": "Alarm",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:07",
-        "incident_number": "2024-00000153",
-        "incident_location": "1000 108TH AVE SE",
-        "incident_nature": "Reckless Driving",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:08",
-        "incident_number": "2024-00000030",
-        "incident_location": "801 ALAMEDA ST",
-        "incident_nature": "Sick Person",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "16:08",
-        "incident_number": "2024-00000039",
-        "incident_location": "801 ALAMEDA ST",
-        "incident_nature": "Sick Person",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "16:11",
-        "incident_number": "2024-00000152",
-        "incident_location": "844 N FLOOD AVE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:15",
-        "incident_number": "2024-00000156",
-        "incident_location": "182 12TH AVE SE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:19",
-        "incident_number": "2024-00000040",
-        "incident_location": "2000 ANN BRANDEN BLVD",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "16:19",
-        "incident_number": "2024-00000165",
-        "incident_location": "2000 ANN BRANDEN BLVD",
-        "incident_nature": "Assist Fire",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:24",
-        "incident_number": "2024-00000031",
-        "incident_location": "3603 CHATHAM CT",
-        "incident_nature": "Sick Person",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "16:24",
-        "incident_number": "2024-00000042",
-        "incident_location": "3603 CHATHAM CT",
-        "incident_nature": "Sick Person",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "16:24",
-        "incident_number": "2024-00000157",
-        "incident_location": "3603 CHATHAM CT",
-        "incident_nature": "Runaway or Lost Child",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:29",
-        "incident_number": "2024-00000041",
-        "incident_location": "2000 ANN BRANDEN BLVD",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "16:37",
-        "incident_number": "2024-00000158",
-        "incident_location": "10300 ETOWAH RD",
-        "incident_nature": "Motorist Assist",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:41",
-        "incident_number": "2024-00000159",
-        "incident_location": "10706 E STATE HWY 9 HWY",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:52",
-        "incident_number": "2024-00000160",
-        "incident_location": "3222 BART CONNER DR",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:52",
-        "incident_number": "2024-00000161",
-        "incident_location": "3222 BART CONNER DR",
-        "incident_nature": "Follow Up",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "16:55",
-        "incident_number": "2024-00000163",
-        "incident_location": "WELLSITE DR / W TECUMSEH RD",
-        "incident_nature": "MVA Non Injury",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:02",
-        "incident_number": "2024-00000162",
-        "incident_location": "710 TERRY DR",
-        "incident_nature": "Follow Up",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:05",
-        "incident_number": "2024-00000164",
-        "incident_location": "W TECUMSEH RD / DEREK LN",
-        "incident_nature": "Hit and Run",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:05",
-        "incident_number": "2024-00000032",
-        "incident_location": "1230 E LINDSEY ST",
-        "incident_nature": "Sick Person",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "17:05",
-        "incident_number": "2024-00000043",
-        "incident_location": "1230 E LINDSEY ST",
-        "incident_nature": "Unconscious/Fainting",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "17:16",
-        "incident_number": "2024-00000044",
-        "incident_location": "901 N PORTER AVE",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "17:22",
-        "incident_number": "2024-00000171",
-        "incident_location": "2071 W LINDSEY ST",
-        "incident_nature": "Civil Standby",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:24",
-        "incident_number": "2024-00000166",
-        "incident_location": "202 E HAYES ST",
-        "incident_nature": "911 Call Nature Unknown",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:24",
-        "incident_number": "2024-00000033",
-        "incident_location": "2550 W FRANKLIN RD",
-        "incident_nature": "Stroke",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "17:24",
-        "incident_number": "2024-00000045",
-        "incident_location": "2550 W FRANKLIN RD",
-        "incident_nature": "Stroke",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "17:33",
-        "incident_number": "2024-00000167",
-        "incident_location": "3063 CLASSEN BLVD",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:34",
-        "incident_number": "2024-00000169",
-        "incident_location": "3300 HEALTHPLEX PKWY",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:34",
-        "incident_number": "2024-00000168",
-        "incident_location": "2372 24TH AVE SE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:36",
-        "incident_number": "2024-00000170",
+        "incident_time": "15:06",
+        "incident_number": "2024-00005678",
         "incident_location": "E ROBINSON ST / N PORTER AVE",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:41",
-        "incident_number": "2024-00000172",
-        "incident_location": "N PORTER AVE / W TECUMSEH RD",
-        "incident_nature": "Hit and Run",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:42",
-        "incident_number": "2024-00000175",
-        "incident_location": "2421 FAIRWAY CT",
-        "incident_nature": "Assault",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "17:51",
-        "incident_number": "2024-00000046",
-        "incident_location": "901 N PORTER AVE",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "17:58",
-        "incident_number": "2024-00000178",
-        "incident_location": "2800 CHAUTAUQUA AVE",
-        "incident_nature": "Harassment / Threats Report",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "18:06",
-        "incident_number": "2024-00000034",
-        "incident_location": "8202 120TH AVE NE",
-        "incident_nature": "Cardiac Respritory Arrest",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "18:06",
-        "incident_number": "2024-00000047",
-        "incident_location": "8202 120TH AVE NE",
-        "incident_nature": "Unconscious/Fainting",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "18:06",
-        "incident_number": "2024-00000173",
-        "incident_location": "8202 120TH AVE NE",
-        "incident_nature": "Medical Call Pd Requested",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "18:12",
-        "incident_number": "2024-00000174",
-        "incident_location": "1474 24TH AVE NE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "18:22",
-        "incident_number": "2024-00000177",
-        "incident_location": "316 CHAUTAUQUA AVE",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "18:22",
-        "incident_number": "2024-00000176",
-        "incident_location": "710 TERRY DR",
-        "incident_nature": "Follow Up",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "18:38",
-        "incident_number": "2024-00000048",
-        "incident_location": "2000 ANN BRANDEN BLVD",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "18:41",
-        "incident_number": "2024-00000035",
-        "incident_location": "1016 26TH AVE NW",
-        "incident_nature": "Fire Alarm",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "18:49",
-        "incident_number": "2024-00000180",
-        "incident_location": "3200 DUVALL DR",
-        "incident_nature": "Fireworks",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "18:52",
-        "incident_number": "2024-00000036",
-        "incident_location": "303 WOODCREST DR",
-        "incident_nature": "Sick Person",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "18:52",
-        "incident_number": "2024-00000049",
-        "incident_location": "303 WOODCREST DR",
-        "incident_nature": "Sick Person",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "18:55",
-        "incident_number": "2024-00000179",
-        "incident_location": "2000 ANN BRANDEN BLVD",
-        "incident_nature": "Special Assignment",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "19:00",
-        "incident_number": "2024-00000181",
-        "incident_location": "2117 MEMPHIS DR",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "19:16",
-        "incident_number": "2024-00000182",
-        "incident_location": "1230 CLASSEN BLVD",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "19:28",
-        "incident_number": "2024-00000037",
-        "incident_location": "2920 EDINBURG DR",
-        "incident_nature": "Assault EMS Needed",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "19:28",
-        "incident_number": "2024-00000050",
-        "incident_location": "2920 EDINBURG DR",
-        "incident_nature": "Assault EMS Needed",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "19:28",
-        "incident_number": "2024-00000183",
-        "incident_location": "2920 EDINBURG DR",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "19:31",
-        "incident_number": "2024-00000184",
-        "incident_location": "503 E ROBINSON ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "19:34",
-        "incident_number": "2024-00000038",
-        "incident_location": "17765 E CEDAR LANE RD",
-        "incident_nature": "Unknown Problem/Man Down",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "19:34",
-        "incident_number": "2024-00000051",
-        "incident_location": "17765 E CEDAR LANE RD",
-        "incident_nature": "Unknown Problem/Man Down",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "19:34",
-        "incident_number": "2024-00000186",
-        "incident_location": "680 24TH AVE SW",
-        "incident_nature": "Alarm",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "19:36",
-        "incident_number": "2024-00000185",
-        "incident_location": "320 CHAUTAUQUA AVE",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "19:42",
-        "incident_number": "2024-00000187",
-        "incident_location": "300 NORMAN CENTER CT",
-        "incident_nature": "Alarm",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "19:57",
-        "incident_number": "2024-00000052",
-        "incident_location": "901 N PORTER AVE",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "20:06",
-        "incident_number": "2024-00000188",
-        "incident_location": "1010 N FLOOD AVE",
-        "incident_nature": "Trespassing",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "20:06",
-        "incident_number": "2024-00000189",
-        "incident_location": "E ROBINSON ST / N PETERS AVE",
-        "incident_nature": "Contact a Subject",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "20:20",
-        "incident_number": "2024-00000039",
-        "incident_location": "501 CHESWICK CT",
-        "incident_nature": "Fire Smoke Investigation",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "20:21",
-        "incident_number": "2024-00000190",
-        "incident_location": "217 E HIMES ST",
         "incident_nature": "Open Door/Premises Check",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "20:23",
-        "incident_number": "2024-00000040",
-        "incident_location": "1125 BILOXI DR",
-        "incident_nature": "Chest Pain",
+        "incident_time": "15:09",
+        "incident_number": "2024-00001446",
+        "incident_location": "1125 N PORTER AVE",
+        "incident_nature": "Public Assist",
         "incident_ori": "14005"
     },
     {
-        "incident_time": "20:23",
-        "incident_number": "2024-00000053",
-        "incident_location": "1125 BILOXI DR",
-        "incident_nature": "Chest Pain",
+        "incident_time": "15:10",
+        "incident_number": "2024-00005680",
+        "incident_location": "900 E MAIN ST",
+        "incident_nature": "Mutual Aid",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:13",
+        "incident_number": "2024-00005679",
+        "incident_location": "1776 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:16",
+        "incident_number": "2024-00005681",
+        "incident_location": "500 N SHERRY AVE",
+        "incident_nature": "COP Relationships",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:17",
+        "incident_number": "2024-00005682",
+        "incident_location": "1911 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:17",
+        "incident_number": "2024-00005683",
+        "incident_location": "3773 W ROBINSON ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:24",
+        "incident_number": "2024-00005685",
+        "incident_location": "111 N CRAWFORD AVE",
+        "incident_nature": "Stolen Vehicle",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:26",
+        "incident_number": "2024-00001447",
+        "incident_location": "1050 RAMBLING OAKS DR",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "15:26",
+        "incident_number": "2024-00001780",
+        "incident_location": "1050 RAMBLING OAKS DR",
+        "incident_nature": "Sick Person",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "20:31",
-        "incident_number": "2024-00000192",
-        "incident_location": "1300 CREEKSIDE DR",
+        "incident_time": "15:28",
+        "incident_number": "2024-00005689",
+        "incident_location": "E APACHE ST / S CARTER AVE",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:30",
+        "incident_number": "2024-00005684",
+        "incident_location": "520 WYLIE RD",
+        "incident_nature": "COP Relationships",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:30",
+        "incident_number": "2024-00001448",
+        "incident_location": "500 E ROBINSON ST",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "15:30",
+        "incident_number": "2024-00001781",
+        "incident_location": "500 E ROBINSON ST",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "15:31",
+        "incident_number": "2024-00005686",
+        "incident_location": "1776 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:32",
+        "incident_number": "2024-00005687",
+        "incident_location": "1929 W TECUMSEH RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:33",
+        "incident_number": "2024-00005688",
+        "incident_location": "2657 CLASSEN BLVD",
+        "incident_nature": "Disturbance/Domestic",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:42",
+        "incident_number": "2024-00005690",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Parking Problem",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "15:44",
+        "incident_number": "2024-00001449",
+        "incident_location": "1561 N PORTER AVE",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "15:44",
+        "incident_number": "2024-00001782",
+        "incident_location": "1561 N PORTER AVE",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "15:49",
+        "incident_number": "2024-00005707",
+        "incident_location": "236 AMERICANA CT",
         "incident_nature": "Check Area",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "20:32",
-        "incident_number": "2024-00000191",
-        "incident_location": "1102 N FLOOD AVE",
-        "incident_nature": "Trespassing",
+        "incident_time": "15:59",
+        "incident_number": "2024-00005691",
+        "incident_location": "728 S FLOOD AVE",
+        "incident_nature": "COP Relationships",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "20:50",
-        "incident_number": "2024-00000057",
+        "incident_time": "16:04",
+        "incident_number": "2024-00001783",
+        "incident_location": "700 S TELEPHONE RD",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "16:05",
+        "incident_number": "2024-00005693",
+        "incident_location": "911 W MAIN ST",
+        "incident_nature": "COP Relationships",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:06",
+        "incident_number": "2024-00005694",
+        "incident_location": "2701 CORPORATE CENTRE DR",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:09",
+        "incident_number": "2024-00005695",
+        "incident_location": "2106 FOREST RD",
+        "incident_nature": "Animal Injured",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:11",
+        "incident_number": "2024-00005696",
+        "incident_location": "1809 STUBBEMAN AVE",
+        "incident_nature": "COP Relationships",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:13",
+        "incident_number": "2024-00005697",
+        "incident_location": "4241 WEMBLETON CIR",
+        "incident_nature": "Harassment / Threats Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:19",
+        "incident_number": "2024-00005699",
+        "incident_location": "2621 WYANDOTTE WAY",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:19",
+        "incident_number": "2024-00005698",
+        "incident_location": "500 E ROBINSON ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:19",
+        "incident_number": "2024-00001450",
+        "incident_location": "1210 CHARLESTON CT",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "16:19",
+        "incident_number": "2024-00001784",
+        "incident_location": "1210 CHARLESTON CT",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "16:19",
+        "incident_number": "2024-00005701",
+        "incident_location": "1210 CHARLESTON CT",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:21",
+        "incident_number": "2024-00005700",
+        "incident_location": "2809 DEWEY AVE",
+        "incident_nature": "Disturbance/Domestic",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:25",
+        "incident_number": "2024-00005702",
+        "incident_location": "3550 W ROBINSON ST",
+        "incident_nature": "Forgery",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:27",
+        "incident_number": "2024-00001451",
+        "incident_location": "S I35 SB I / I35 SB OFF RAMP 108A RAMP",
+        "incident_nature": "MVA With Injuries",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "16:27",
+        "incident_number": "2024-00001785",
+        "incident_location": "S I35 SB I / I35 SB OFF RAMP 108A RAMP",
+        "incident_nature": "MVA With Injuries",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "16:27",
+        "incident_number": "2024-00005703",
+        "incident_location": "S I35 SB I / I35 SB OFF RAMP 108A RAMP",
+        "incident_nature": "MVA With Injuries",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:30",
+        "incident_number": "2024-00005706",
+        "incident_location": "216 CHALMETTE DR",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:33",
+        "incident_number": "2024-00005704",
+        "incident_location": "1525 STUBBEMAN AVE",
+        "incident_nature": "Harassment / Threats Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:34",
+        "incident_number": "2024-00005708",
+        "incident_location": "2200 W BROOKS ST",
+        "incident_nature": "Animal at Large",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:41",
+        "incident_number": "2024-00005705",
+        "incident_location": "1135 E LINDSEY ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:42",
+        "incident_number": "2024-00001452",
+        "incident_location": "10600 STELLA RD",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "16:45",
+        "incident_number": "2024-00005709",
+        "incident_location": "1515 N PORTER AVE",
+        "incident_nature": "Extra Patrol",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "16:52",
+        "incident_number": "2024-00001453",
+        "incident_location": "623 W ACRES ST",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "16:52",
+        "incident_number": "2024-00001786",
+        "incident_location": "623 W ACRES ST",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "17:07",
+        "incident_number": "2024-00005717",
+        "incident_location": "1821 PETER PAN ST",
+        "incident_nature": "Harassment / Threats Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "17:07",
+        "incident_number": "2024-00005710",
+        "incident_location": "N PORTER AVE / E GRAY ST",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "17:11",
+        "incident_number": "2024-00005711",
+        "incident_location": "1017 E BROOKS ST",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "17:15",
+        "incident_number": "2024-00001787",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "17:35",
+        "incident_number": "2024-00001454",
+        "incident_location": "2550 W FRANKLIN RD",
+        "incident_nature": "Cardiac Respritory Arrest",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "17:35",
+        "incident_number": "2024-00001788",
+        "incident_location": "2550 W FRANKLIN RD",
+        "incident_nature": "Cardiac Respritory Arrest",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "17:36",
+        "incident_number": "2024-00001455",
+        "incident_location": "3109 LOCHINVER DR",
+        "incident_nature": "Unconscious/Fainting",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "17:36",
+        "incident_number": "2024-00001789",
+        "incident_location": "3109 LOCHINVER DR",
+        "incident_nature": "Unconscious/Fainting",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "17:40",
+        "incident_number": "2024-00001456",
+        "incident_location": "1107 BILOXI DR",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "17:40",
+        "incident_number": "2024-00001790",
+        "incident_location": "1107 BILOXI DR",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "17:45",
+        "incident_number": "2024-00001457",
+        "incident_location": "1705 DAKOTA ST",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "17:45",
+        "incident_number": "2024-00001791",
+        "incident_location": "1705 DAKOTA ST",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "17:46",
+        "incident_number": "2024-00005713",
+        "incident_location": "1210 W ROBINSON ST",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "17:50",
+        "incident_number": "2024-00005712",
+        "incident_location": "1780 24TH AVE NW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "17:52",
+        "incident_number": "2024-00005729",
+        "incident_location": "1912 SHELBY CT",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "17:55",
+        "incident_number": "2024-00005714",
+        "incident_location": "N JONES AVE / E HAYES ST",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "17:56",
+        "incident_number": "2024-00005715",
+        "incident_location": "3735 TIMBERBROOK DR",
+        "incident_nature": "Follow Up",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "17:59",
+        "incident_number": "2024-00005716",
+        "incident_location": "1908 W MAIN ST",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:05",
+        "incident_number": "2024-00005718",
+        "incident_location": "2337 HOUSTON AVE",
+        "incident_nature": "Disturbance/Domestic",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:16",
+        "incident_number": "2024-00005719",
+        "incident_location": "222 MCCULLOUGH ST",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:17",
+        "incident_number": "2024-00005720",
+        "incident_location": "917 BRANCHWOOD DR",
+        "incident_nature": "Mutual Aid",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:18",
+        "incident_number": "2024-00005721",
+        "incident_location": "1610 W LINDSEY ST",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:20",
+        "incident_number": "2024-00005725",
+        "incident_location": "1111 OAK TREE AVE",
+        "incident_nature": "Noise Complaint",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:21",
+        "incident_number": "2024-00005722",
+        "incident_location": "1600 ANN BRANDEN BLVD",
+        "incident_nature": "Check Area",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:29",
+        "incident_number": "2024-00005723",
+        "incident_location": "800 LEXINGTON ST",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:41",
+        "incident_number": "2024-00005726",
+        "incident_location": "W BOYD ST / S BERRY RD",
+        "incident_nature": "MVA Non Injury",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:43",
+        "incident_number": "2024-00005724",
+        "incident_location": "2841 CLASSEN BLVD",
+        "incident_nature": "Check Area",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:47",
+        "incident_number": "2024-00005727",
+        "incident_location": "1307 OAKHURST AVE",
+        "incident_nature": "Runaway or Lost Child",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:50",
+        "incident_number": "2024-00005733",
+        "incident_location": "109 W GRAY ST",
+        "incident_nature": "Harassment / Threats Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "18:56",
+        "incident_number": "2024-00001793",
+        "incident_location": "1776 E ROBINSON ST",
+        "incident_nature": "Falls",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "18:58",
+        "incident_number": "2024-00005728",
+        "incident_location": "W IMHOFF RD / W STATE HWY 9 HWY",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:02",
+        "incident_number": "2024-00005757",
+        "incident_location": "2142 W BROOKS ST",
+        "incident_nature": "Supplement Report",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:10",
+        "incident_number": "2024-00005730",
+        "incident_location": "401 W MAIN ST",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:16",
+        "incident_number": "2024-00005731",
+        "incident_location": "201 W GRAY ST",
+        "incident_nature": "Follow Up",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:21",
+        "incident_number": "2024-00005732",
+        "incident_location": "N FLOOD AVE / W ROCK CREEK RD",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:28",
+        "incident_number": "2024-00001458",
+        "incident_location": "1420 OAKCREST AVE",
+        "incident_nature": "Fire Carbon Monoxide Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "19:38",
+        "incident_number": "2024-00001794",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "19:38",
+        "incident_number": "2024-00001459",
+        "incident_location": "7820 E STATE HWY 9 HWY",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "19:39",
+        "incident_number": "2024-00005734",
+        "incident_location": "2200 W MAIN ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:43",
+        "incident_number": "2024-00005744",
+        "incident_location": "2105 OAK VISTA CIR",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:44",
+        "incident_number": "2024-00005735",
+        "incident_location": "497 GEORGE L CROSS DR",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:51",
+        "incident_number": "2024-00005736",
+        "incident_location": "2681 JEFFERSON ST",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:52",
+        "incident_number": "2024-00001460",
+        "incident_location": "904 COLLEGE AVE",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "19:53",
+        "incident_number": "2024-00001461",
+        "incident_location": "2100 36TH AVE NW",
+        "incident_nature": "Falls",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "19:53",
+        "incident_number": "2024-00001795",
+        "incident_location": "2100 36TH AVE NW",
+        "incident_nature": "Falls",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "19:56",
+        "incident_number": "2024-00005737",
+        "incident_location": "313 12TH AVE NE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:56",
+        "incident_number": "2024-00005738",
+        "incident_location": "E IMHOFF RD / CLASSEN BLVD",
+        "incident_nature": "MVA Non Injury",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "19:58",
+        "incident_number": "2024-00001796",
+        "incident_location": "700 S TELEPHONE RD",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "20:00",
+        "incident_number": "2024-00001799",
+        "incident_location": "700 S TELEPHONE RD",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "20:04",
+        "incident_number": "2024-00005739",
+        "incident_location": "1362 24TH AVE NW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "20:13",
+        "incident_number": "2024-00005740",
+        "incident_location": "769 24TH AVE NW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "20:15",
+        "incident_number": "2024-00005742",
+        "incident_location": "1200 W LINDSEY ST",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "20:16",
+        "incident_number": "2024-00005741",
+        "incident_location": "24TH AVE SE / ALAMEDA ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "20:20",
+        "incident_number": "2024-00005755",
+        "incident_location": "3301 W MAIN ST",
+        "incident_nature": "MVA Non Injury",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "20:25",
+        "incident_number": "2024-00001462",
+        "incident_location": "2818 CLASSEN BLVD",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "20:25",
+        "incident_number": "2024-00001797",
+        "incident_location": "2818 CLASSEN BLVD",
+        "incident_nature": "Breathing Problems",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "20:26",
+        "incident_number": "2024-00005743",
+        "incident_location": "2550 MOUNT WILLIAMS DR",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "20:28",
+        "incident_number": "2024-00001798",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "20:38",
+        "incident_number": "2024-00001463",
+        "incident_location": "754 CLAREMONT DR",
+        "incident_nature": "Public Assist",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "20:39",
+        "incident_number": "2024-00005753",
+        "incident_location": "3201 13TH PL",
+        "incident_nature": "Barking Dog",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "20:40",
+        "incident_number": "2024-00001464",
+        "incident_location": "1127 ARKANSAS ST",
+        "incident_nature": "Hemorrhage/Lacerations",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "20:40",
+        "incident_number": "2024-00001800",
+        "incident_location": "1127 ARKANSAS ST",
+        "incident_nature": "Hemorrhage/Lacerations",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "20:43",
+        "incident_number": "2024-00005745",
+        "incident_location": "1600 ANN BRANDEN BLVD",
+        "incident_nature": "Check Area",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "20:43",
+        "incident_number": "2024-00001801",
         "incident_location": "3300 HEALTHPLEX PKWY",
         "incident_nature": "Transfer/Interfacility",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "20:53",
-        "incident_number": "2024-00000194",
-        "incident_location": "4111 W MAIN ST",
-        "incident_nature": "Disturbance/Domestic",
+        "incident_time": "20:52",
+        "incident_number": "2024-00005756",
+        "incident_location": "N FLOOD AVE / I35 NB ON RAMP 113 RAMP",
+        "incident_nature": "Welfare Check",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "20:53",
-        "incident_number": "2024-00000200",
-        "incident_location": "4111 W MAIN ST",
-        "incident_nature": "Public Intoxication",
+        "incident_time": "20:54",
+        "incident_number": "2024-00005747",
+        "incident_location": "2121 MCKOWN DR",
+        "incident_nature": "Check Area",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "20:53",
-        "incident_number": "2024-00000193",
-        "incident_location": "1189 ALAMEDA ST",
+        "incident_time": "20:54",
+        "incident_number": "2024-00005746",
+        "incident_location": "24TH AVE NE / ALAMEDA ST",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "20:55",
-        "incident_number": "2024-00000041",
-        "incident_location": "1900 RENAISSANCE DR",
-        "incident_nature": "Falls",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "20:55",
-        "incident_number": "2024-00000054",
-        "incident_location": "1900 RENAISSANCE DR",
-        "incident_nature": "Falls",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "20:59",
-        "incident_number": "2024-00000042",
-        "incident_location": "417 PORTLAND ST",
-        "incident_nature": "Sick Person",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "20:59",
-        "incident_number": "2024-00000055",
-        "incident_location": "417 PORTLAND ST",
-        "incident_nature": "Sick Person",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "21:00",
-        "incident_number": "2024-00000195",
-        "incident_location": "580 12TH AVE NE",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "21:01",
-        "incident_number": "2024-00000056",
-        "incident_location": "901 N PORTER AVE",
+        "incident_time": "20:58",
+        "incident_number": "2024-00001802",
+        "incident_location": "3300 HEALTHPLEX PKWY",
         "incident_nature": "Transfer/Interfacility",
         "incident_ori": "EMSSTAT"
     },
     {
         "incident_time": "21:02",
-        "incident_number": "2024-00000196",
-        "incident_location": "RED FISH RD / LEOPARD LILY DR",
-        "incident_nature": "Hit and Run",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "21:07",
-        "incident_number": "2024-00000203",
-        "incident_location": "301 E ROBINSON ST",
-        "incident_nature": "Harassment / Threats Report",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "21:10",
-        "incident_number": "2024-00000043",
-        "incident_location": "1010 N FLOOD AVE",
-        "incident_nature": "Fire Controlled Burn",
+        "incident_number": "2024-00001465",
+        "incident_location": "3010 CLASSEN BLVD",
+        "incident_nature": "Fire Gas Leak",
         "incident_ori": "14005"
     },
     {
-        "incident_time": "21:10",
-        "incident_number": "2024-00000197",
-        "incident_location": "1010 N FLOOD AVE",
-        "incident_nature": "Trespassing",
+        "incident_time": "21:02",
+        "incident_number": "2024-00005748",
+        "incident_location": "2217 MERIDIAN DR",
+        "incident_nature": "Check Area",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "21:19",
-        "incident_number": "2024-00000198",
-        "incident_location": "1900 RENAISSANCE DR",
+        "incident_time": "21:16",
+        "incident_number": "2024-00005749",
+        "incident_location": "101 ANDOVER DR",
         "incident_nature": "Disturbance/Domestic",
         "incident_ori": "OK0140200"
     },
     {
+        "incident_time": "21:24",
+        "incident_number": "2024-00005754",
+        "incident_location": "1550 24TH AVE NW",
+        "incident_nature": "Suspicious",
+        "incident_ori": "OK0140200"
+    },
+    {
         "incident_time": "21:26",
-        "incident_number": "2024-00000199",
-        "incident_location": "201 W GRAY ST",
+        "incident_number": "2024-00005752",
+        "incident_location": "3240 DESKIN DR",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "21:27",
+        "incident_number": "2024-00005750",
+        "incident_location": "E LINDSEY ST / CREEKSIDE DR",
+        "incident_nature": "Welfare Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "21:28",
+        "incident_number": "2024-00005775",
+        "incident_location": "901 N PORTER AVE",
+        "incident_nature": "Escort/Transport",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "21:33",
+        "incident_number": "2024-00001466",
+        "incident_location": "4209 OXFORD WAY",
+        "incident_nature": "Unconscious/Fainting",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "21:33",
+        "incident_number": "2024-00001803",
+        "incident_location": "4209 OXFORD WAY",
+        "incident_nature": "Unconscious/Fainting",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "21:39",
+        "incident_number": "2024-00005751",
+        "incident_location": "201 REED AVE",
         "incident_nature": "Contact a Subject",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "21:26",
-        "incident_number": "2024-00000201",
-        "incident_location": "1324 SALSBURY ST",
-        "incident_nature": "Larceny",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "21:38",
-        "incident_number": "2024-00000044",
-        "incident_location": "817 W EUFAULA ST",
-        "incident_nature": "Medical Call Pd Requested",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "21:46",
-        "incident_number": "2024-00000202",
-        "incident_location": "1111 OAK TREE AVE",
-        "incident_nature": "Disturbance/Domestic",
-        "incident_ori": "OK0140200"
-    },
-    {
         "incident_time": "21:53",
-        "incident_number": "2024-00000204",
-        "incident_location": "OSBORNE DR / 24TH AVE SW",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "22:07",
-        "incident_number": "2024-00000205",
-        "incident_location": "742 CLAREMONT DR",
-        "incident_nature": "Shots Heard",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "22:08",
-        "incident_number": "2024-00000206",
-        "incident_location": "CLASSEN BLVD / CLASSEN CIR",
-        "incident_nature": "Motorist Assist",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "22:08",
-        "incident_number": "2024-00000207",
-        "incident_location": "824 TERRACE PL",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "22:10",
-        "incident_number": "2024-00000058",
-        "incident_location": "2000 ANN BRANDEN BLVD",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "22:11",
-        "incident_number": "2024-00000045",
-        "incident_location": "424 DAYBREAK DR",
-        "incident_nature": "Falls",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "22:11",
-        "incident_number": "2024-00000059",
-        "incident_location": "424 DAYBREAK DR",
-        "incident_nature": "Falls",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "22:23",
-        "incident_number": "2024-00000208",
-        "incident_location": "800 LEXINGTON ST",
-        "incident_nature": "911 Call Nature Unknown",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "22:27",
-        "incident_number": "2024-00000046",
-        "incident_location": "522 DEE ANNE DR",
-        "incident_nature": "Sick Person",
-        "incident_ori": "14005"
-    },
-    {
-        "incident_time": "22:27",
-        "incident_number": "2024-00000060",
-        "incident_location": "522 DEE ANNE DR",
-        "incident_nature": "Sick Person",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "22:31",
-        "incident_number": "2024-00000209",
-        "incident_location": "2501 PENDLETON DR",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "22:36",
-        "incident_number": "2024-00000210",
-        "incident_location": "800 W MAIN ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "22:51",
-        "incident_number": "2024-00000047",
-        "incident_location": "4200 E CEDAR LANE RD",
+        "incident_number": "2024-00001467",
+        "incident_location": "754 CLAREMONT DR",
         "incident_nature": "Public Assist",
         "incident_ori": "14005"
     },
     {
-        "incident_time": "22:58",
-        "incident_number": "2024-00000212",
-        "incident_location": "2316 W LINDSEY ST",
-        "incident_nature": "Suspicious",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "22:59",
-        "incident_number": "2024-00000211",
-        "incident_location": "S PORTER AVE / E APACHE ST",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "23:01",
-        "incident_number": "2024-00000213",
-        "incident_location": "1100 OAK TREE AVE",
-        "incident_nature": "Mutual Aid",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "23:11",
-        "incident_number": "2024-00000214",
-        "incident_location": "W BOYD ST / JEAN MARIE DR",
-        "incident_nature": "Traffic Stop",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "23:13",
-        "incident_number": "2024-00000048",
-        "incident_location": "2825 192ND AVE NE",
-        "incident_nature": "Assault EMS Needed",
+        "incident_time": "22:11",
+        "incident_number": "2024-00001468",
+        "incident_location": "2017 RISING HILL DR",
+        "incident_nature": "Public Assist",
         "incident_ori": "14005"
     },
     {
-        "incident_time": "23:13",
-        "incident_number": "2024-00000061",
-        "incident_location": "2825 192ND AVE NE",
-        "incident_nature": "Assault EMS Needed",
+        "incident_time": "22:12",
+        "incident_number": "2024-00005758",
+        "incident_location": "201 WOODCREST DR",
+        "incident_nature": "Open Door/Premises Check",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "22:14",
+        "incident_number": "2024-00005761",
+        "incident_location": "2316 W LINDSEY ST",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "22:15",
+        "incident_number": "2024-00001469",
+        "incident_location": "903 DRAKE DR",
+        "incident_nature": "Falls",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "22:15",
+        "incident_number": "2024-00001804",
+        "incident_location": "903 DRAKE DR",
+        "incident_nature": "Falls",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "23:14",
-        "incident_number": "2024-00000215",
-        "incident_location": "4741 N PORTER AVE",
+        "incident_time": "22:17",
+        "incident_number": "2024-00005759",
+        "incident_location": "1013 E LINDSEY ST",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "23:17",
-        "incident_number": "2024-00000062",
+        "incident_time": "22:18",
+        "incident_number": "2024-00001805",
         "incident_location": "2000 ANN BRANDEN BLVD",
         "incident_nature": "Transfer/Interfacility",
         "incident_ori": "EMSSTAT"
     },
     {
-        "incident_time": "23:24",
-        "incident_number": "2024-00000063",
-        "incident_location": "901 N PORTER AVE",
-        "incident_nature": "Transfer/Interfacility",
-        "incident_ori": "EMSSTAT"
-    },
-    {
-        "incident_time": "23:30",
-        "incident_number": "2024-00000217",
-        "incident_location": "2550 W FRANKLIN RD",
-        "incident_nature": "Mutual Aid",
-        "incident_ori": "OK0140200"
-    },
-    {
-        "incident_time": "23:31",
-        "incident_number": "2024-00000216",
-        "incident_location": "4741 N PORTER AVE",
+        "incident_time": "22:30",
+        "incident_number": "2024-00005760",
+        "incident_location": "1266 24TH AVE SW",
         "incident_nature": "Traffic Stop",
         "incident_ori": "OK0140200"
     },
     {
-        "incident_time": "23:38",
-        "incident_number": "2024-00000218",
-        "incident_location": "1028 LESLIE LN",
-        "incident_nature": "911 Call Nature Unknown",
+        "incident_time": "22:37",
+        "incident_number": "2024-00005762",
+        "incident_location": "3649 E STATE HWY 9 HWY",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "22:40",
+        "incident_number": "2024-00005764",
+        "incident_location": "1002 24TH AVE SW",
+        "incident_nature": "Larceny",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "22:41",
+        "incident_number": "2024-00005763",
+        "incident_location": "1170 BILOXI DR",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "22:46",
+        "incident_number": "2024-00005766",
+        "incident_location": "110 W MAIN ST",
+        "incident_nature": "Trespassing",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "22:51",
+        "incident_number": "2024-00005765",
+        "incident_location": "3097 E STATE HWY 9 HWY",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:00",
+        "incident_number": "2024-00005767",
+        "incident_location": "470 S PORTER AVE",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:06",
+        "incident_number": "2024-00001806",
+        "incident_location": "3300 HEALTHPLEX PKWY",
+        "incident_nature": "Transfer/Interfacility",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "23:08",
+        "incident_number": "2024-00005768",
+        "incident_location": "607 W MAIN ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:11",
+        "incident_number": "2024-00005769",
+        "incident_location": "330 12TH AVE SE",
+        "incident_nature": "Check Area",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:12",
+        "incident_number": "2024-00001470",
+        "incident_location": "508 FINCH ST",
+        "incident_nature": "Fire Alarm",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "23:13",
+        "incident_number": "2024-00005771",
+        "incident_location": "1210 W ROBINSON ST",
+        "incident_nature": "Alarm",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:15",
+        "incident_number": "2024-00005770",
+        "incident_location": "320 12TH AVE SE",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:16",
+        "incident_number": "2024-00005772",
+        "incident_location": "3732 TIMBERBROOK DR",
+        "incident_nature": "Disturbance/Domestic",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:17",
+        "incident_number": "2024-00001471",
+        "incident_location": "3010 CLASSEN BLVD",
+        "incident_nature": "Fire Odor Investigation",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "23:23",
+        "incident_number": "2024-00005773",
+        "incident_location": "2881 OAK TREE AVE",
+        "incident_nature": "Foot Patrol",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:23",
+        "incident_number": "2024-00005774",
+        "incident_location": "BILOXI DR / COLUMBIA CIR",
+        "incident_nature": "Contact a Subject",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:28",
+        "incident_number": "2024-00005776",
+        "incident_location": "917 24TH AVE SW",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:32",
+        "incident_number": "2024-00005777",
+        "incident_location": "417 W BOYD ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:44",
+        "incident_number": "2024-00001472",
+        "incident_location": "3700 W TECUMSEH RD",
+        "incident_nature": "Sick Person",
+        "incident_ori": "14005"
+    },
+    {
+        "incident_time": "23:44",
+        "incident_number": "2024-00001807",
+        "incident_location": "3700 W TECUMSEH RD",
+        "incident_nature": "Sick Person",
+        "incident_ori": "EMSSTAT"
+    },
+    {
+        "incident_time": "23:45",
+        "incident_number": "2024-00005778",
+        "incident_location": "503 W BOYD ST",
+        "incident_nature": "Traffic Stop",
+        "incident_ori": "OK0140200"
+    },
+    {
+        "incident_time": "23:49",
+        "incident_number": "2024-00005779",
+        "incident_location": "201 WOODCREST DR",
+        "incident_nature": "Burglary",
         "incident_ori": "OK0140200"
     }
 ]

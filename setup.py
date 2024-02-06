@@ -4,9 +4,9 @@ from setuptools import setup, find_packages
 setup(
     name='assignment0',
     version='1.0',
-    author='Hydrogen',
-    author_email='<NEED TO ADD>',
-    url="<NEED TO ADD>",
+    author='Pratiksha Deodhar',
+    author_email='pratikshadeo24@gmail.com',
+    url="https://github.com/pratikshadeo24/cis6930sp24-assignment0",
     packages=find_packages(),
     install_requires=[
         'pypdf==4.0.0'

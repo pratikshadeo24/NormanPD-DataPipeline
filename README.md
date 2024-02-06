@@ -13,9 +13,9 @@ printed.
 - pyenv install 3.11
 - pyenv global 3.11
 
-### install required libraries
+### Install required libraries
 - pipenv install pypdf 
-- pip install sqlite3
+- pipenv install sqlite3
 - pipenv install pytest
 - pipenv install pytest-mock
 
