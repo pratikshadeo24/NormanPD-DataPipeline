@@ -432,10 +432,15 @@ def test_status_success(mock_object):
 
     # Initialize
     query = """
-        SELECT incident_nature, COUNT(*) as count 
-        FROM incidents 
+        SELECT incident_nature, COUNT(*) as count, 0 as sort_col
+        FROM incidents
+        WHERE incident_nature !=""
         GROUP BY incident_nature
-        ORDER BY count DESC, incident_nature ASC
+        UNION ALL
+        SELECT incident_nature, COUNT(*) as count, 1 as sort_col
+        FROM incidents
+        WHERE incident_nature =""
+        ORDER BY sort_col ASC, count DESC, incident_nature ASC;
         """
 
     # Execute
@@ -458,10 +463,15 @@ def test_status_failure(mock_object):
 
     # Initialize
     query = """
-        SELECT incident_nature, COUNT(*) as count 
-        FROM incidents 
+        SELECT incident_nature, COUNT(*) as count, 0 as sort_col
+        FROM incidents
+        WHERE incident_nature !=""
         GROUP BY incident_nature
-        ORDER BY count DESC, incident_nature ASC
+        UNION ALL
+        SELECT incident_nature, COUNT(*) as count, 1 as sort_col
+        FROM incidents
+        WHERE incident_nature =""
+        ORDER BY sort_col ASC, count DESC, incident_nature ASC;
         """
 
     # Execute

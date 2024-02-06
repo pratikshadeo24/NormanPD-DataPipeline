@@ -172,19 +172,21 @@ def extract_location_and_nature(record):
     """
     location, nature = [], []
     for rec in record:
-        if len(nature) == 0 and rec != "MVA" and rec != "COP" and rec != "EMS" and (
-                rec.isdecimal() or rec.isupper() or
-                rec == "/" or ';' in rec):
+        if len(nature) == 0 and rec != "MVA" and rec != "COP" and rec != "EMS" and rec != "RAMPMVA" and (
+                rec.isdecimal() or rec.isupper() or rec == "/" or ';' in rec or rec == '1/2'):
             location.append(rec)
-        elif rec == 'HWYMotorist':
-            location.append('HWY')
+        elif rec == 'HWYMotorist' or rec == 'RAMPMotorist':
+            location.append(rec.split('Motorist')[0])
             nature.append('Motorist')
+        elif rec == "RAMPMVA":
+            location.append('RAMP')
+            nature.append('MVA')
         else:
             nature.append(rec)
 
     try:
         if location:
-            if location[-1].isnumeric():
+            if location[-1].isnumeric() and len(location[-1]) != 1:
                 nature.insert(0, location[-1])
                 location.pop()
     except Exception as ex:
