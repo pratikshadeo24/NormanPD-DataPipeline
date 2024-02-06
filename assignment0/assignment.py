@@ -134,11 +134,17 @@ def refactor_page_data(page_text):
         rec_incident_num = record[2]
         rec_incident_ori = record[-1]
 
-        location, nature = extract_location_and_nature(record[3: len(record) - 1])
-
-        if len(rec_incident_num) > 13:
-            location = rec_incident_num[13:] + ' ' + location
-            rec_incident_num = rec_incident_num[:13]
+        nature, location = [], []
+        if record[3: len(record)-1]:
+            location, nature = extract_location_and_nature(record[3: len(record)-1])
+        else:
+            location, nature = "", ""
+        try:
+            if len(rec_incident_num) > 13:
+                location = rec_incident_num[13:] + ' ' + location
+                rec_incident_num = rec_incident_num[:13]
+        except Exception as ex:
+            print("ERROR in incident num: ", ex)
 
         page_incidents.append(
             {
@@ -166,8 +172,9 @@ def extract_location_and_nature(record):
     """
     location, nature = [], []
     for rec in record:
-        if len(nature) == 0 and rec != "MVA" and rec != "COP" and rec != "EMS" and (rec.isdecimal() or rec.isupper() or
-                                                                                    rec == "/" or ';' in rec):
+        if len(nature) == 0 and rec != "MVA" and rec != "COP" and rec != "EMS" and (
+                rec.isdecimal() or rec.isupper() or
+                rec == "/" or ';' in rec):
             location.append(rec)
         elif rec == 'HWYMotorist':
             location.append('HWY')
@@ -176,9 +183,10 @@ def extract_location_and_nature(record):
             nature.append(rec)
 
     try:
-        if location[-1].isnumeric() and len(location[-1]) > 1:
-            nature.insert(0, location[-1])
-            location.pop()
+        if location:
+            if location[-1].isnumeric():
+                nature.insert(0, location[-1])
+                location.pop()
     except Exception as ex:
         print("ERROR in Location: ", ex)
     loc_str = " ".join(location)
@@ -260,10 +268,15 @@ def status(conn):
         # Query to get distinct incident_nature and their count
         cur.execute(
             """
-        SELECT incident_nature, COUNT(*) as count 
-        FROM incidents 
+        SELECT incident_nature, COUNT(*) as count, 0 as sort_col
+        FROM incidents
+        WHERE incident_nature !=""
         GROUP BY incident_nature
-        ORDER BY count DESC, incident_nature ASC
+        UNION ALL
+        SELECT incident_nature, COUNT(*) as count, 1 as sort_col
+        FROM incidents
+        WHERE incident_nature =""
+        ORDER BY sort_col ASC, count DESC, incident_nature ASC;
         """
         )
 

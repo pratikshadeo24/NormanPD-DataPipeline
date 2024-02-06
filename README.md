@@ -31,30 +31,43 @@ pipenv run python assignment0/main.py --incidents <url>
 This function serves as the central entry point for the script designed to fetch, process, and store incident data from a provided URL into a SQLite database.
 The function does not return a value. Its primary role is to execute a series of operations as well as potentially display summaries of the stored data.
 It uses argparse to parse command-line arguments, requiring a URL to the incident summary as an input (--incidents), which it then passed to the main function.
+- Function arguments: url
+- Return Value : None, as it is the main function, it does not return anything but serves as the entry point to the execution of all function
 
 ### delete_existing_db
 This function deletes the database if it exists so that user need not require to manually delete the database every time
 the code is run. 
+- Function arguments: db_name
+- Return value: None
 
 ### fetch_incidents
-This function takes a URL as string and uses the `urllib.request` library to grab one incident pdf for the Norman Police Report Webpage. 
-Function returns data read from URL in binary format.
+This function takes a URL as string and uses the `urllib.request` library to grab one incident pdf for the Norman Police Report Webpage.
+- Function arguments: url
+- Return value: incident data from url in binary format
 
 ### extract_incidents
 This function is designed to process binary data of a PDF document, extract text content from each page, and then 
 compile the text into a structured format, presumably a list of incidents.
+- Function arguments: incident data from `fetch_incidents` function
+- Return value: list of incidents
 
 ### extract_page_text
 This function is designed to extract text in the form of list of strings where each string represents a line of text 
 extracted from the current page, with special considerations for the first and last pages of the document.
+- Function arguments: page, page_num, tot_pages
+- Return value: split_incidents, which is a list of strings
 
 ### refactor_page_data
 This function processes a list of strings, each representing a line of text extracted from a PDF page, and transforms
 this text to get data of incident's time, number, location, nature, ORI.
+- Function arguments: page_text, which is a list of strings
+- Return value: page_incidents, which is a list of dictionary with all incident arguments
 
 ### extract_location_and_nature
 This function is designed to parse a segment of text and separate it into two components: the location and the nature 
 of an incident. This parsing is based on certain conditions related to the content and its format.
+- Function arguments: record, which is a segment of individual record list
+- Return value: loc_str, nature_str
 
 ### create_db
 This function is designed to create a new SQLite database and create a table within it for storing incident data.

@@ -3,7 +3,7 @@ from assignment0 import assignment
 
 
 def main(url):
-    db_name = "norman_pd.db"
+    db_name = "normanpd.db"
 
     # Delete existing DB
     assignment.delete_existing_db(db_name)
