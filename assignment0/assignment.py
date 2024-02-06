@@ -18,11 +18,11 @@ def delete_existing_db(db_name):
         Exception(if any) while deleting database file
     """
     try:
-        # Get current working directory path
+        # get current working directory path
         base_path = os.getcwd()
-        # Build DB file path
+        # build DB file path
         file_path = f"{base_path}/resources/{db_name}"
-        # Delete DB file if exists
+        # delete DB file if exists
         if os.path.exists(file_path):
             os.remove(file_path)
     except Exception as ex:
@@ -38,13 +38,16 @@ def fetch_incidents(url):
         data (bytes): Data of the PDF Document
     """
     try:
+        # define a dictionary of HTTP headers to simulate a request from a web browser
         headers = {
             "User-Agent": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.27 "
                           "Safari/537.17"
         }
+        # make an HTTP GET request to the specified URL with the headers
         data = urllib.request.urlopen(
             urllib.request.Request(url, headers=headers)
         ).read()
+        # return the content of the HTTP response
         return data
     except Exception as ex:
         print("ERROR in fetching incidents: ", ex)
@@ -56,23 +59,23 @@ def extract_incidents(incident_data):
     Params:
         incident_data (bytes): PDF document data
     Return:
-        incidents (list[dict]): All incidents with extracted fields
+        incidents (list): All incidents with extracted fields
     """
-    # Convert download data to bites object
+    # convert download data to bytes object
     pdf_buffer = io.BytesIO(incident_data)
-    # Create PDFReader object
+    # create PDFReader object
     reader = PdfReader(pdf_buffer)
-    # Get total number of pages
+    # get total number of pages
     tot_pages = len(reader.pages)
 
     incidents = []
     for page_num in range(tot_pages):
-        # Create specific page object
+        # create specific page object
         page = reader.pages[page_num]
-        # Extract text
+        # extract text
         page_text = extract_page_text(page, page_num, tot_pages)
-        hh = refactor_page_data(page_text)
-        incidents.extend(hh)
+        # refactor page text to capture different fields of incident
+        incidents.extend(refactor_page_data(page_text))
 
     create_json(incidents)
     return incidents
@@ -89,20 +92,27 @@ def extract_page_text(page, page_num, tot_pages):
          split_incidents (List[str]): Extracted incidents
     """
     if page_num == 0:
+        # extract the page text and remove header and column heading
         page_text = page.extract_text()[57:-55]
+        # split the page text into individual incidents
         split_incidents = split_all_incidents(page_text)
     elif page_num == tot_pages - 1:
+        # extract the page text
         page_text = page.extract_text()
+        # split the page text into individual incidents
         split_incidents = split_all_incidents(page_text, 'last')
     else:
+        # extract the page text
         page_text = page.extract_text()
+        # split the page text into individual incidents
         split_incidents = split_all_incidents(page_text)
 
+    # return incidents of a single page
     return split_incidents
 
 
 def split_all_incidents(page_text, page_type=None):
-    """Splits each incident based on date and time.
+    """Splits each incident based on date.
 
     Params:
     - page_text (str): page content
@@ -110,12 +120,17 @@ def split_all_incidents(page_text, page_type=None):
     Return:
          extracted_incident (list): Extract incidents
     """
+    # regex for recognizing date
     pattern = r'(?=\d{1,2}/\d{1,2}/\d{4})'
+    # split the page text into list of incidents using date regex
     extracted_incidents = re.split(pattern, page_text.strip())
     if page_type == 'last':
+        # remove the footer from last page
         extracted_incidents = extracted_incidents[:-1]
+    # filter out any empty strings
     extracted_incidents = [incident for incident in extracted_incidents if incident]
 
+    # return extracted incidents
     return extracted_incidents
 
 
@@ -125,27 +140,27 @@ def refactor_page_data(page_text):
     Params:
         page_text (list): extracted incidents
     Return:
-        page_incidents (List[dict]): List of extracted fields of each incident
+        page_incidents (List): List of extracted fields of each incident
     """
     page_incidents = []
     for i in range(len(page_text)):
+        # split individual incidents into tokens to extract fixed fields
         record = page_text[i].split()
         rec_time = record[1]
         rec_incident_num = record[2]
         rec_incident_ori = record[-1]
 
-        nature, location = [], []
         if record[3: len(record)-1]:
+            # extract location and nature
             location, nature = extract_location_and_nature(record[3: len(record)-1])
         else:
             location, nature = "", ""
-        try:
-            if len(rec_incident_num) > 13:
-                location = rec_incident_num[13:] + ' ' + location
-                rec_incident_num = rec_incident_num[:13]
-        except Exception as ex:
-            print("ERROR in incident num: ", ex)
+        # handle edge case when extra text incident number has an extra text
+        if len(rec_incident_num) > 13:
+            location = rec_incident_num[13:] + ' ' + location
+            rec_incident_num = rec_incident_num[:13]
 
+        # collect each incident record
         page_incidents.append(
             {
                 "incident_time": rec_time,
@@ -156,6 +171,7 @@ def refactor_page_data(page_text):
             }
         )
 
+    # return extracted fields of all the incidents of a specific page
     return page_incidents
 
 
@@ -172,6 +188,7 @@ def extract_location_and_nature(record):
     """
     location, nature = [], []
     for rec in record:
+        # handle location and nature edge cases
         if len(nature) == 0 and rec != "MVA" and rec != "COP" and rec != "EMS" and rec != "RAMPMVA" and (
                 rec.isdecimal() or rec.isupper() or rec == "/" or ';' in rec or rec == '1/2'):
             location.append(rec)
@@ -186,11 +203,14 @@ def extract_location_and_nature(record):
 
     try:
         if location:
+            # handle edge case when location ends with numeric
             if location[-1].isnumeric() and len(location[-1]) != 1:
                 nature.insert(0, location[-1])
                 location.pop()
     except Exception as ex:
         print("ERROR in Location: ", ex)
+
+    # convert location and nature into string
     loc_str = " ".join(location)
     nature_str = " ".join(nature)
 
@@ -198,6 +218,7 @@ def extract_location_and_nature(record):
 
 
 def create_json(incidents):
+    # create json out of extracted incidents
     with open("../incidents.json", "w") as f:
         json.dump(incidents, f, indent=4)
 
@@ -213,13 +234,18 @@ def create_db(db_name):
         Exception while establishing connection / creating cursor / executing query
     """
     try:
+        # define db path
         db_file_loc = f'resources/{db_name}'
+        # establish db connection
         conn = sqlite3.connect(db_file_loc)
+        # generate cursor object
         cur = conn.cursor()
+        # create incident table
         cur.execute(
             "CREATE TABLE incidents(incident_time TEXT, incident_number TEXT, incident_location TEXT, incident_nature "
             "TEXT, incident_ori TEXT)"
         )
+        # return DB connection object
         return conn
     except Exception as ex:
         print("ERROR in creating DB: ", ex)
@@ -237,6 +263,7 @@ def populate_db(db, incidents):
         Exception while data entry / missing key / saving database changes
     """
     try:
+        # insert each incident record into table one by one
         for incident in incidents:
             db.execute(
                 "INSERT INTO incidents (incident_time, incident_number, incident_location, incident_nature, "
@@ -249,6 +276,7 @@ def populate_db(db, incidents):
                     incident["incident_ori"],
                 ),
             )
+            # save inserted records
             db.commit()
     except Exception as ex:
         print("ERROR in populating DB: ", ex)
@@ -267,7 +295,7 @@ def status(conn):
     try:
         cur = conn.cursor()
 
-        # Query to get distinct incident_nature and their count
+        # query to get distinct incident_nature and their count
         cur.execute(
             """
         SELECT incident_nature, COUNT(*) as count, 0 as sort_col
@@ -282,10 +310,11 @@ def status(conn):
         """
         )
 
-        # Fetch all rows from the result set
+        # fetch all rows from the result set
         rows = cur.fetchall()
 
         for row in rows:
+            # print the records
             if row[0] is not None:
                 print(f"{row[0]}|{row[1]}")
     except Exception as ex:
@@ -295,23 +324,23 @@ def status(conn):
 
 
 def print_record(db_name):
-    # Connect to the SQLite database
+    # connect to the SQLite database
     conn = sqlite3.connect(db_name)
 
-    # Create a cursor object using the cursor() method
+    # create a cursor object using the cursor() method
     cursor = conn.cursor()
 
     # SQL query to retrieve data
     query = "SELECT * FROM incidents"
 
     try:
-        # Execute the SQL command
+        # execute the SQL command
         cursor.execute(query)
 
-        # Fetch all the rows
+        # fetch all the rows
         records = cursor.fetchall()
 
-        # Print the records
+        # print the records
         for row in records:
             print(row)  # Each row is a tuple representing a record
 
@@ -319,6 +348,6 @@ def print_record(db_name):
         print("Database error:", e)
 
     finally:
-        # Close the cursor and connection
+        # close the cursor and connection
         cursor.close()
         conn.close()

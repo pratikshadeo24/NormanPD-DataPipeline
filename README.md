@@ -20,7 +20,7 @@ printed.
 - pipenv install pytest-mock
 
 ## How to run
-pipenv run python assignment0/main.py --incidents <url>
+pipenv run python assignment0/main.py --incidents &lt;url&gt;
 
 ![video](video)
 
@@ -32,7 +32,7 @@ This function serves as the central entry point for the script designed to fetch
 The function does not return a value. Its primary role is to execute a series of operations as well as potentially display summaries of the stored data.
 It uses argparse to parse command-line arguments, requiring a URL to the incident summary as an input (--incidents), which it then passed to the main function.
 - Function arguments: url
-- Return Value : None, as it is the main function, it does not return anything but serves as the entry point to the execution of all function
+- Return Value : None
 
 ### delete_existing_db
 This function deletes the database if it exists so that user need not require to manually delete the database every time
@@ -57,6 +57,11 @@ extracted from the current page, with special considerations for the first and l
 - Function arguments: page, page_num, tot_pages
 - Return value: split_incidents, which is a list of strings
 
+### split_all_incidents
+This function is designed to process a block of text (page_text) and extract individual incidents from it
+- Function arguments: page_text, entire page content
+- Return value: list of incidents of particular page
+
 ### refactor_page_data
 This function processes a list of strings, each representing a line of text extracted from a PDF page, and transforms
 this text to get data of incident's time, number, location, nature, ORI.
@@ -71,13 +76,19 @@ of an incident. This parsing is based on certain conditions related to the conte
 
 ### create_db
 This function is designed to create a new SQLite database and create a table within it for storing incident data.
+- Function arguments: db_name
+- Return value: database connection object
 
 ### populate_db
 This function is designed to insert a collection of incident records into incidents table in the created database
+- Function arguments: database connection object
+- Return value: None
 
 ### status
 This function is designed to query an SQLite database to group incident records by their nature, count the number of 
 occurrences of each distinct nature, and then print out the records in order by count DESC and nature ASC.
+- Function arguments: database connection object
+- Return value: None
 
 ## Database Development
 Execution of code checks if the database exists. If it exists, it first removes the database and then create a new
@@ -88,5 +99,5 @@ Incidents are collected and then populated into the database in one go.
 ## Bugs and Assumptions
 - There will be only 5 columns in the pdf and order of columns will be preserved. After splitting list, index 1 will give time, index 2 will give incident number, last index will give incident ori, rest index will be used to extract location and nature
 - Page 0 of pdf will have a header and last page will have a footer which needs to be removed
-- Location includes - decimal, uppercase and special characters( "/", ";"). "MVA", "COP", "EMS", "911" are exceptions to this logic hence they will be part of nature
+- Location includes - float, decimal, uppercase and special characters( "/", ";"). "MVA", "COP", "EMS", "911", "RAMPMVA", "HWYMotorist", "RAMPMotorist" are exceptions to this logic hence they are handled in each unique way
 - Anything not included in location will be included in nature. Once we start writing into nature, nothing will be appended to location as location preceds nature column
