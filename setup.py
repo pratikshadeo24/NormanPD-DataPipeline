@@ -5,9 +5,9 @@ setup(
     name='assignment0',
     version='1.0',
     author='Pratiksha Deodhar',
-    author_email='pratikshadeo24@gmail.com',
+    author_email='pdeodhar@ufl.edu',
     url="https://github.com/pratikshadeo24/cis6930sp24-assignment0",
-    packages=find_packages(),
+    packages=find_packages(exclude=('tests', 'docs', 'resources')),
     install_requires=[
         'pypdf==4.0.0'
     ],

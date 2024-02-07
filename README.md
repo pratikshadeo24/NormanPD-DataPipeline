@@ -115,6 +115,13 @@ database "norman_pd.db" within resources directory. It also creates a table "inc
 the database which has the following columns - Incident Time, Incident Number, Location, Nature, Incident ORI.
 Incidents are collected and then populated into the database in one go. 
 
+## Tests
+- The test use pytest fixtures to provide a fixed baseline upon which tests can reliably and repeatedly execute. Examples include mock_cwd to mock the current working directory, sample_url for providing a sample URL etc.
+- The tests use the mocker fixture to patch Python's standard modules like os and urllib to mock their behavior for the tests.
+- Several tests (test_delete_existing_db_file_exists, test_create_db_success, etc.) are designed to check the database-related functions.
+- Other tests (test_fetch_incidents_success, test_extract_incidents, etc.) are meant to verify that the code can fetch data from a URL, read PDF content, extract text, and parse it into a structured format.
+- After each action, the tests make assertions to verify that the expected results are obtained. This includes checking return values, making sure functions are called with the correct arguments, and ensuring no side effects occur in case of errors.
+
 ## Bugs and Assumptions
 - There will be only 5 columns in the pdf and order of columns will be preserved. After splitting list, index 1 will give time, index 2 will give incident number, last index will give incident ori, rest index will be used to extract location and nature
 - Page 0 of pdf will have a header and last page will have a footer which needs to be removed
