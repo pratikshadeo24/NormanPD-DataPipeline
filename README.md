@@ -1,8 +1,8 @@
-# CIS6930SP24 -- Project0
+# CIS6930SP24 - Assignment0
 
 #### Name: Pratiksha Deodhar
 
-## Project Description
+## Description
 Norman, Oklahoma police department regularly reports incidents, arrests, and other activities. Our goal in this project
 is to extract incident data from their database API and load it into database so that count of each occurance of nature can be captured and 
 printed. 
@@ -35,7 +35,7 @@ $ pipenv run python assignment0/main.py --incidents <url>
 ```
 
 ## Demo
-![video](video)
+![http://youtube.com/](video)
 
 
 ## Code Description
