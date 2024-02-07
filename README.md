@@ -35,8 +35,7 @@ $ pipenv run python assignment0/main.py --incidents <url>
 ```
 
 ## Demo
-![http://youtube.com/](video)
-
+[DE_Assignment0_video.mp4](..%2F..%2FDE_Assignment0.mp4)
 
 ## Code Description
 
