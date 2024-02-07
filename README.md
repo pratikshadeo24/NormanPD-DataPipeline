@@ -35,7 +35,7 @@ $ pipenv run python assignment0/main.py --incidents <url>
 ```
 
 ## Demo
-[DE_Assignment0_video.mp4](..%2F..%2FDE_Assignment0.mp4)
+[DE_Compressed_video.mov](..%2F..%2FDE_Compressed_video.mov)
 
 ## Code Description
 
