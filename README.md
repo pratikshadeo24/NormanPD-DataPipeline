@@ -111,7 +111,7 @@ occurrences of each distinct nature, and then print out the records in order by 
 ## Database Development
 Execution of code checks if the database exists. If it exists, it first removes the database and then create a new
 database "norman_pd.db" within resources directory. It also creates a table "incidents" within
-the database which has the following columns - Incident Time, Incident Number, Location, Nature, Incident ORI.
+the database which has the following columns - Incident Time(text), Incident Number(text), Location(text), Nature(text), Incident ORI(text).
 Incidents are collected and then populated into the database in one go. 
 
 ## Tests

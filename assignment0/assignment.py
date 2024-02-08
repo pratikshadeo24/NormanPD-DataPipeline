@@ -298,15 +298,10 @@ def status(conn):
         # query to get distinct incident_nature and their count
         cur.execute(
             """
-        SELECT incident_nature, COUNT(*) as count, 0 as sort_col
+        SELECT incident_nature, COUNT(*) as count
         FROM incidents
-        WHERE incident_nature !=""
         GROUP BY incident_nature
-        UNION ALL
-        SELECT incident_nature, COUNT(*) as count, 1 as sort_col
-        FROM incidents
-        WHERE incident_nature =""
-        ORDER BY sort_col ASC, count DESC, incident_nature ASC;
+        ORDER BY count DESC, incident_nature ASC;
         """
         )
 
@@ -315,8 +310,7 @@ def status(conn):
 
         for row in rows:
             # print the records
-            if row[0] is not None:
-                print(f"{row[0]}|{row[1]}")
+            print(f"{row[0]}|{row[1]}")
     except Exception as ex:
         print("ERROR in fetching Status: ", ex)
     finally:
