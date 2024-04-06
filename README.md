@@ -35,7 +35,7 @@ $ pipenv run python assignment0/main.py --incidents <url>
 ```
 
 ## Demo
-https://github.com/pratikshadeo24/cis6930sp24-assignment0/assets/30438714/ad9da13c-00d8-4e67-83cd-9c03dc82c1af
+https://github.com/pratikshadeo24/cis6930sp24-assignment0/assets/30438714/f7ddd2de-4acd-4b11-ace5-e84b9fcdb837
 
 ## Code Description
 
