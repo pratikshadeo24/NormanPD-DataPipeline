@@ -1,5 +1,3 @@
-# CIS6930SP24 - Assignment0
-
 #### Name: Pratiksha Deodhar
 
 ## Description
